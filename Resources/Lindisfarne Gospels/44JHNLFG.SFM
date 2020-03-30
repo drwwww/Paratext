@@ -1,0 +1,1615 @@
+\id JHN - Lindisfarne Gospels
+\rem BL f.211r
+\mt1 JOHANNIS
+\is Bibliography
+\ip Cotton MS Nero D IV (British Library facsimile): http://www.bl.uk/manuscripts/Viewer.aspx?ref=cotton_ms_nero_d_iv_fs001r
+\ipi c 700-3rd quarter of the 10th century, This manuscript contains: prefaces, ff. 3r–9r; canon tables, ff. 10r–17v; Gospel of Matthew, ff. 18v–89v; Gospel of Mark, ff. 89v–130r; Gospel of Luke, ff. 130r–203r; Gospel of John, ff. 203v–259r; a colophon (added in the 3rd quarter of the 10th century), f. 259r.According to the colophon on f. 259r, this manuscript was written by Eadfrith, bishop of Lindisfarne from 698 until his death in or around 721. There has been considerable debate whether Eadfrith wrote the Lindisfarne Gospels before or after he became bishop. For recent interpretations, see Gameson, From Holy Island to Durham (2013), and Brown, The Lindisfarne Gospels (2003), pp. 13–83. An Old English gloss was added by Aldred, provost of Chester-le-Street (fl. c. 970), who was responsible for adding the colophon on f. 259r (see Provenance below). The decoration includes: five carpet pages, ff. 2v, 26v, 94v, 138v, 210v; incipit pages, ff. 3r, 27r, 95r, 139r, 211r; canon tables, ff. 10r–17v; a Chi-rho page, f. 29r; Evangelist miniatures, ff. 25v, 93v, 137v, 209v; and decorated initials.
+\ipi John 1:1 - BL f.211r
+\ipi John 9:12 - BL f.232v
+\ip Skeat, Walter William. (1878). The Holy Gospels in Anglo-Saxon, Northumbrian, and Old Mercian Versions: Synoptically Arranged [PDF]. S## = Skeat page number.
+\ip Waring, G. et Stevenson, J. (1865). The Lindisfarne and Rushworth Gospels: Part IV. (48). Durham : Andrews and Co. [PDF]. W## or [##] = Waring page number.
+\ipi Waring inverts verbs and subjects. For example, at John 9:12 Vulgate reads \it nescio\it* ("I don't know"), LFG mss reads "natic", Waring records "ic nat."
+\is Abbreviations
+\ili ɫ = vel, "or" (https://en.wikipedia.org/wiki/Scribal_abbreviation); U+026B
+\ili ⁊ = Tironian et, Amperagus, "and" (https://en.wikipedia.org/wiki/Tironian_notes)
+\ili Ꝥ (thorn with stroke) = þæt, "that" (https://en.wikipedia.org/wiki/Thorn_with_stroke)
+\is Other symbols
+\ip [] = unglossed Latin word
+\ip () = words with alternative letters superscripted. These are probably meant to be incorporated into the words themselves.
+\ip - = abbreviated word. Sometimes I've used ndx ... ndx* (ex. \ndx forðon\ndx* [John 3:17]). Now prefer to insert hyphen (-) to maintain a similar visual. These abbreviations are the same as words with a tilde (∼), to be confirmed.
+\ip w = ƿ (wynn, wen) = /w/. I prefer to type w to ease distinction between ƿ and p.
+\ip u = /w/
+\ip ⌹ = dot horizontal hour glass dot symbol, cf. John 7:27 (pp. 154, 204)
+\ip ·/· = interpretation? cf. John 3:20
+\is Notes
+\ip Paragraphs and punctuation added into glosses to ease reading: ? ,
+\ipi Placement of paragraphs follows Waring.
+\ipi Placement of commas sometimes follows Waring's Latin text.
+\ipi Does lack of punctuation in the glosses reinforce the notion that the glosses were meant to be read as a crib for the Latin (i.e. the glosses were intended to be read on their own, otherwise they would also have punctuation).
+\ip Does ɫ also serve to serve verses? Cf John 9:25 where ɫ appears at the end of the verse. Not always, sometimes colored initial for verse (cf John 9:32). Or more generally, what does ɫ mean when it's not showing options? It just shows that the gloss covers the whole of the (longish) Latin word?
+\ip Capitalize proper names ("Marða"). "Hæl" is not capitalized.
+\c 1
+\s Onginneð godspel æft- Iohãn\f + \fr 1.1 \ft BL f.211r; S12\f*
+\p
+\v 1 in fruma uæs ourd ⁊ ourd Ꝥ is Godes sunu uæs mið God feder ⁊ God uæs ourd.
+\v 2 ðys uæs in fruma mið God.
+\v 3 alle ðerh hine auorden sint ⁊ buta him geuorden is noht ɫ æniht Ꝥ auorden uæs.
+\v 4 in him ɫ in ðæm lif uæs ⁊ lif uæs leht monna.
+\v 5 ⁊ leht in ðiostrum gescineð ⁊ ðiostro hia ne f-nomon.
+\p
+\v 6 uæs monn gesendet fro-Gode ðæm noma uæs Ioh-.
+\v 7 ðes cuom in cyðnise ꝥte uitnesse ɫ cyðnese ðerh trymede of leht ꝥte alle gelefdon ðerf hine ɫ ðone ilca.
+\v 8 ne uæs he ɫ ðe ilca leht ah ꝥte cyðnise getrymede from leth.
+\v 9 uæs leht soð ðiu inlihteð ælc ɫ eghuelc monno cymmende in middãn.
+\v 10 in mid- uæs ⁊ middãn ðerh hine geuorden uæs ⁊ middãn hine ne ongeat.
+\v 11 in agan cuom ⁊ his hine ne onfeingon.
+\v 12 suæ eft ɫ uũt eftonfengon hine gesalde ðæm mæht suno Godes wosa ɫ ꝥ hia uero ðæm ðaðe gelefað in noma his.
+\v 13 ðaðe ne of blodum ne of uillo ɫ of lust lichomæs ne from uillo ɫ lust ah of Gode gecened sint.
+\p
+\v 14 ⁊ uord ·/· Crs- lichoma geuorden uæs ɫ is ⁊ gebyde ɫ uunade in usih ⁊ ue gesegon uuldor ɫ gefeon his wuldor suelce ancennedes of ɫ frõ feder full wuldres ɫ gefeas ⁊ soðæstnisses.
+\p
+\v 15 Ioh- cyðnisse getrymes of ðæm ɫ of him ⁊ cliopað cuoeðende ðes uæs ɫ is ðone ic sægde iuch seðe æft- mec tocymende is befẽ ɫ ær mec auorden uæs forðon befã mec uæs.
+\p
+\v 16 ⁊ of fyllnisse his alle ue onfengon uuldor ɫ gefea fore gefea.
+\v 17 forðon æ ðerh Moise gesald uæs gefo ɫ gefea ⁊ soðfæstnise ðerh ðone Hælend Crist geuærð ɫ auorden is.
+\p
+\v 18 God ænigmoon ne gesæh æfra ðe ancenda sune seðe is in bearm ɫ in fæðem fadores ðe ilca gesægde.
+\v 19 ⁊ ðis cyðnise Ioh- ða ɫ ðonn gesendon Iũd frõ Hierosolomsicum ðæm burguærum sacerdas ⁊ diacones to him ꝥte hia gefrugnon hine ðu huelc ɫ huæd art ɫ arð.
+\p
+\v 20 ⁊ geondate ɫ geondetend uæs, ⁊ ne onsōc ⁊ ondetend uæs f-ðon nam ic Crist.
+\v 21 ⁊ gefrugnon hine huæd uũt ɫ ðoñ? Helias arð ðu? ⁊ cueð nam ic.
+\p witge arð ðu? ⁊ geonduærde næse ɫ ne.
+\v 22 cuoedon f-ðon him to huelc arð ðu ꝥte ondsuære we gesellæ ðæm ðaðe gesendon usig huæd cuoeðestu frõ ðe seolfum?
+\p
+\v 23 cuæð ic stefne clioppendes in uoestern rehtas woeg Driht- suæ cuæð [Esaias] ðe uitga.
+\p
+\v 24 ⁊ ðaðe asendet ɫ uoron hia ueron frõ [Pharisæis].
+\v 25 ⁊ gefrugnon hine ⁊ cuoedon huæd ðoñ ɫ f-ðon fuluuas ðu gif ðu ne arð Crist ne Helias ne witga?
+\p
+\v 26 geonduearde him Ioh- cuæð ic fuluga (fulggia) in uættre i- middum uũt iuerra gestod ðone gie iuh ne cunnon.
+\v 27 ðe is seðe æft- mec tocymmende is ɫ uæs seðe befã ɫ ær mec geuorden uæs ðæs ic nam wyrðe ꝥte ic undoe his ðuong scoes.
+\v 28 ðas in ðær byrig gworden uoeron beyeonda ðone stream ɫ ofer Iordanen ðer uæs Ioh fulguande.
+\v 29 oðer doeg gesæh Ioh ðone Hælend cummende to him ⁊ cuæð heono lomb Godes seðe nimeð ɫ lædeð synne middang-.
+\p
+\v 30 ðæs is of ðæm ic cuæð æft- mec cymeð ɫ cuõ uoer seðe ær mec auorden uæs fðon ærrur ɫ ær me uæs.
+\v 31 ⁊ ic nyste ɫ ne cuðe hine ah ꝥte were adeaued in Israel fẽðon ɫ æft-ðon cym ic in uætre fulguande ɫ to fuł.
+\p
+\v 32 ⁊ cyðnisse getrymede Ioh cuæð fðon ic gisæh ðone Gast adune stigende suælce culfræ of heofenum ⁊ gwunede of- hine.
+\v 33 ⁊ ic nyste hine ah seðe sende mec fulguia ɫ ꝥ ic fulgode in uætre he mece (meco) cuæð of-ðene ɫ ðonilca ðu gesisst ðone Gast of dune stigende ⁊ wunigendæ ofer hine ðes is seðe gefulguas in Gast Halig ɫ i- ðæm Halige Gaste.
+\v 34 ⁊ ic gesæh ⁊ cyðnesse ɫ witnesse ic getrymede ꝥte ðes is sunu Godes.
+\p
+\v 35 oðer doeg eft̃sona gestode Ioh ⁊ of ðegnum his tuoege.
+\v 36 ⁊ eftlocade ɫ beheald ðone Hælend geongende cuoeð heono lomb Godes.
+\v 37 ⁊ geherdon hine ða tuoege ðegnas spreccende ⁊ fylgende woeren ðone Hælend.
+\v 38 efne gecerde uũt ɫ ða ðe Hæland ⁊ gesæh hia ɫ ðailco fylgendo hine cuoeð to ðæm huæd soecað gie? ðaðe cuoedon him [Rabbi] Ꝥ is gecuoedeu Ꝥ gettrahtad sie laruu huer hues ðu ɫ unas ðu?
+\v 39 cueð to him cymað ⁊ geseað gcuomon ⁊ gesegon huer gewunade ⁊ mið hine ɫ mið ðæm gewunadon of doeg ðæm: sio tid uũt uæs suelce ðio teigða.
+\v 40 uæs uũt [Andreas] broðer Simones [Petri], an of ðæm tuæm: ðaðe geherdon from Ioh- ⁊ fylgendo uoeron hine.
+\p
+\v 41 gemoette her ærist broðer his ðone Simon ⁊ cuoeð him to gemoetton [Messiam] ꝥ is getrachtad, Crist.
+\v 42 ⁊ to gelædde hine to ðæm Hælend ymbsceaude uũt hine se Hælend cuæð, ðu arð [Simon] sunu Iohannes: ðu bist geciged [Cephas], ꝥ is getrahtad carr.
+\v 43 ðæs on nerne walde gefara in Gali- on ðær meghð ·/· geliornise ⁊ gemoette ðone ðegn, ⁊ cuæð him to fylge ɫ soec mec.
+\v 44 uæs uũt [Philippus] of ðær byrig ɫ Beðsaida byrig Andreas ⁊ Petres.
+\v 45 gemoette Philippus Nathã ðone ðeign ⁊ cuæð to him ꝥ ilcæ aurat Moises in æ ⁊ uitgũ, ue gemoetun ðone Hælend sunu Iosephes frõ ðær byrig.
+\v 46 ⁊ cuæð to him Natha- of Nazareth mæge huelchuoegu godes wosa? cuoeð to thim Phili-, cym ⁊ geseh.
+\v 47 gesæh ðe Hælend Nath- cymmende to him ⁊ cuæð of ðæm ɫ to him heono soðlice ðe Israhelisca i- ðæm facon ne is.
+\p
+\v 48 cuæð to him Nath- huona mec wistes ðu ɫ huoũ cuðes ðu mec geonduearde se Hælend ⁊ cuoeð to him aẽr ðon ðec Phil- geceigde miððy ðu were under ðæm ficbeam ic gesæh ðec.
+\p
+\v 49 geonduearde him Natha- 7 cuæð la laruu ðu arð sunu Godes, ðu arð cynig Isral-.
+\v 50 geondsuarede se Hælend ⁊ cuæð to hi- f-ðon ic cuoed ðe ic gsæh ðec under ðæm ficbeam ðu gelefeð? mara of ðæm ðu bist gesegn.
+\v 51 ⁊ cuæð him to soðlice soð ic cueðo iuh ge geseað ꝥ heofun untyned ⁊ englas Godes up stigende ⁊ ofdune stigende oferufa suna (sunu) monnes.
+\c 2
+\p
+\v 1 ⁊ doeg oðero hæmdo ɫ færmo gepordeno ueron in ðær byrig geliorneses ⁊ uæs ðiu moder ⁊ ðe Hælend ðer.
+\v 2 geceiged uæs uũt ðer ɫ ðider æc se Hæl- ⁊ ðegnas his to ðæm farmu- ɫ hæmdum.
+\v 3 ⁊ miððy gescyrte ꝥ uin cuoeð moder Hælendes to him uin nabbað.
+\v 4 ⁊ cueð to him se Hælend huæd ðe ⁊ e us la wif\f + \fr 2.4 \ft ɫ huæd gebyreð ðe ⁊ me to wyrcanne wundar ær min fæder uælle of heofnu- geleafa\f* ne ðaget cuom tíd min.
+\v 5 cuæð moder his ðæm embehtmonnum ɫ ðæm birilu suæ huæd he gecueðas to iuh doað ɫ uircað.
+\v 6 woeron uũt ðer stænino fatto ɫ bydno sex gesettedo, æfter clænsunge Iudana, niomende ɫ genomon syndrige sestas tuoege ɫ ðrea\f + \fr 2.6 \ft ɫ eghuælc an uæstui sestre gemet uel ɫ ðrea fullunga\f*.
+\v 7 cuæð to ðæm se Hæl- gefylleð gie ða fatto of uætre ⁊ gefyldon ða ilca uið to briode up.
+\v 8 ⁊ cuæð him to se Hæl- birileð ɫ dæleð nu ɫ sona ⁊ brengeð ðæm aldormen ⁊ gebrohtun.
+\v 9 ꝥte ɫ miððy uũt i-geberigde ɫ i-gebarg se aldormon ꝥ uæter to uine geuorden ⁊ ne wiste huona were ða embehtmenn ɫ uũt geuiston, ðaðe birladon ꝥ uæter ceigeð ðone brydguma se aldormonn,
+\v 10 ⁊ cuoeð to him
+\p ælc mon ðone f-ma ɫ ærist ꝥ god uin setteð ⁊ miððy indrungno biðon ðonne ꝥ ꝥte wyrrestu bið\f + \fr 2.10 \ft ɫ ꝥ uirresta mon drincað æd ende\f* ɫ is ðu gehealde ꝥ god uin uið to ðises ɫ uið nu ɫ uið ðageana.
+\v 11 ðis uorhte frũma ðara uundra se Hæl- in ðær byrig [Cana Galilææ] ⁊ ædeaude uuldor ɫ gefea his ⁊ gelefdon on hine ðegnas his.
+\v 12 æft- ðis ðona astag ða burig he ⁊ his moder ⁊ his broðro ⁊ his ðegnas ⁊ ðer uunadon ne menigum dagum ɫ unmonigum dagum
+\v 13 ⁊ geneolecde eastro Iudea- ⁊ astag ða burig se Hæl-,
+\p
+\v 14 ⁊ gemoete in ðæm temple bebycgendo exen ⁊ scipo ⁊ culufro ⁊ ða mynetro sittendo,
+\v 15 ⁊ miððy geworhte suelce suopa of rapum alle ða f-draf of ðæm temple
+\m ða scipo æc toðon ⁊ ða exin ⁊ ðæra mynetra of gæt mæslen ⁊ ða discas ymbcerde.
+\v 16 ⁊ ðæm ðaðe ða culufero bebohton cueð gebrengað ðas hiona nallað gwyrca hus fadores mines hus cæpinces.
+\p
+\v 17 eftgemyndigo f-ðon ueron ðegnas his ꝥte auritten uæs elnung ɫ æfista huses ðines geét mec.
+\p
+\v 18 geondueardon forðon Iũd ⁊ cuedon him huelc becon ðu adeaues us f-ðon ðas ðu wyrces?
+\p
+\v 19 geondsuearade se Hælend ⁊ cueð ðæm undoeð tempel ðis ⁊ on ðriim dagum ic auecco ꝥ.
+\v 20 cuedon f-ðon Iũd feortig ⁊ sex uintro getimbred uæs tempel ðis ⁊ ðu on ðriim dagum auecceð ꝥ?
+\v 21 he uũt gecueð of temple his lichomes.
+\v 22 mððy uũt ariseð ɫ arás frõ deadum eftgemyndgo ueron his ðegnas f-ðon ðis gecueð ⁊ gelefdon ðæm uritte ⁊ uorde ðone ɫ ꝥte cuæð se Hæl-.
+\v 23 miððy uũt uere ɫ uæs ðæm liodum in eostro in dæge halgum menigo gelefdon in his noma gesegon becno his ðaðe geuorhte.
+\v 24 he uũt se Hæl- ne lefde ɫ ne trugude hine seolfne him ɫ ðǣ foreðon he uiste alle,
+\v 25 ⁊ f-ðon ɫ ꝥte ðærf him ne uæs ꝥte ænig ⌹ ɫ huelc cyðnise ðerhtrymede of menn he f-ðon uiste huæt were in menn.
+\c 3
+\p
+\v 1 uæss uũt monn of [Pharisæis], Nicodemus genemned aldormonn Iudeana.
+\v 2 ðes cuom to him on næht ⁊ cuæð to him la laruu ue uuton ꝥte from Gode ðu gecuome laruu, ne ænigmonn mæge ðas taceno geuirce ðaðe ðu doas ɫ uirc- buta sie God mið him.
+\v 3 geondsuærade se Hæl- ⁊ cuæð to hi- soð is soðlice ic sægo ðe buta huelc acenned sie snude ɫ niunge ne mæge gesea ric Godes.
+\v 4 cueð to him Nicõdi se aldorm- huu mæge se monn ꝥte se acenned miððy ald bið?
+\p huæðer mæge in uõmbe moderes his eftgeboetad ꝥte ingæ ⁊ acenned se?
+\v 5 geonduearde se Hælend soð is soðlice ic cueðo ðe buta hua eftboren se of uætre ⁊ gaste ne mæge ꝥte ingæ ɫ ingeonga in ric Godes.
+\v 6 ꝥ acenned is ɫ bið of lichoma lichoma is ⁊ ꝥte acenned bið ɫ is of gaste gast is.
+\v 7 ne uundraðu f-ðon ic cueoð ðe geriseð ɫ behofað ɫ gedæfneð [nasci] iuc snude
+\v 8 se gast ðer uil oreðað ⁊ stefne his ðu geheres ah ne ðu uast ɫ nastu huona cymað ⁊ huidir gaað ɫ færað suæ is egheulc seðe acenned is of gaaste.
+\v 9 geonduearde Nicodi- se aldorm- ⁊ cuoeð him to huu magon ðas wosa ɫ geuorða
+\v 10 geondsuarade se Hæl- ⁊ cuæð to him ðu arð laruu Israhelis ⁊ ðas ðu nast ɫ ðas ðe sint uñcuðo?
+\v 11 soð is soðlice ic cueðo ðe f-ðon ꝥ ue uuton ue gesprecas ⁊ ꝥ ue gesegun we getrymes ⁊ cyðnisse ɫ uitnessa usa ɫ userna ne gie onfoas.
+\v 12 gif ða eorðlico ic cueð iuh ⁊ ne gee gelefes huu gif cueðo ɫ sægo iu ða heofunlico ge gelefeð?
+\v 13 ⁊ nænigmonn astag in heofne buta ðeðe ofdunestag of heofnu- sunu monnes seðe is ɫ uæs in heofnu-.
+\v 14 ⁊ suæ Mois- gefealde ɫ -fcuom ða nédræ in woestr-n suæ gefeage ɫ \ndx ofsuiða\ndx* is gedeafnad sunu monnes.
+\v 15 ꝥte eghuelc seðe gelefeð in ðæm ɫ ne losað ah he hæfeð lif éce.
+\v 16 suæ forðon lufade God ðone middangeard ꝥte sunu his ancende gesalde ꝥte eghuelc seðe gelefeð on hine ne losas ah hæfeð lif éce.
+\v 17 ne \ndx forðon\ndx* gesende God sunu his in middãng ꝥte gedoemde middãng ah ꝥte uere gehæled middãn ðerh hine.
+\v 18 seðe gelefeð on hine ne bið ðe gedoemed seðe uũt ne gelefes fæstlice gedoemed is \ndx fðon\ndx* ne gelefde on noma ðæs ancende sunu Godes.
+\v 19 ðæt is \ndx uũt\ndx* ðe dóm \ndx fðon\ndx* leht cuom on middãng ⁊ gelufadun menn suiðor ðiostro ðon left ueron \ndx fðon\ndx* hiora yflo uerco ɫ úndede.
+\v 20 ælc ⌹ \ndx fðon\ndx* seðe yfle ɫ misdoeð gefieð ꝥ leht ·/· Xrs ⁊ ne cuom ɫ cymes to leht ·/· Xrs ꝥte ne se \ndx fcuodeno\ndx* uoerco his.
+\v 21 seðe uũt uircað soðfæstnise cymmeð to leht þæte sie adeaued his uerco fðon in Gode sint geuordeno.
+\v 22 \ndx æft\ndx* ðas cuom se Hælend ⁊ ðegnas his in Iudea eorðu ⁊ ðer geuunade mið ðæm ⁊ gefulguade.
+\v 23 uæs uũt eac \ndx Ioh\ndx* fulwande in ðær stoue æt ɫ neh Salim ðær stoue æt ðæm \ndx uætrũ\ndx* \ndx fðon\ndx* uætro menigo ueron ðer ⁊ togecuomon ⁊ weron gefuluad frõ him.
+\v 24 ne ðaget ɫ \ndx fðon\ndx* gesendet uæs in carcern Iohãn.
+\v 25 auorden uæs forðon dóm frõ ðegnum Ioh mið Iudeum from clænsunge.
+\v 26 ⁊ gecuomon to Iohãn ⁊ cuoedon to him laruu seðe uæs ðec mið begienda Iordã ðæm streame ðæm cyðnisse ðu getrymedis heono ðes fuluas ⁊ alle cymmes to him.
+\v 27 geonduearde Ioh ⁊ cueð ne mæge monn onfoa ænig buta him sie gesald of heofnum.
+\v 28 gie iuh me cyðnisse getrymmes ꝥte ic sægdo, ic ne am Crist ah \ndx fðon\ndx* ɫ ꝥte gesendet am ær hine.
+\v 29 seðe hæfes ða brydo brydguma is ɫ bið meg ɫ friond uũt ðæs brydgumes seðe stondas ⁊ geheres hine mið gefea gefeað ɫ bið glæd fẽ stefne ðæs brydgumes ðis \ndx fðon\ndx* gefea ɫ glædnisse min gefylled is.
+\v 30 hine ɫ hi- gedæfnað ꝥte auexe mec uũt ꝥ ic gelytlege.
+\v 31 seðe ufa cuom \ndx ofufa \ndx* alle (allum) ɫ of alle is,\f + \fr 3.31 \ft ·/· xrs\f*
+\p seðe is of eorðo of eorðo is ⁊ ofer eorðo sprecað seðe of heofnũ cuom of- alle is.\f + \fr 3.31 \ft ·/· xrs \f*
+\v 32 ⁊ ꝥte gesiis ⁊ gehereð ꝥ ɫ ðis getrymeð ⁊ cyðnisse his nænigmonn onfoas.
+\v 33 seðe onfoes his cyðnise his gemercade \ndx fðon\ndx* God ɫ ꝥte God is soðcued is ɫ soðfæst is.
+\v 34 ðone \ndx fðon\ndx* sende God uordo Godes gespreces ne \ndx fðon\ndx* to gemet seles God ðone gaast.
+\v 35 se fæder lufað ðone sunu ⁊ alle gesald in hond his.
+\v 36 seðe gelefeð in sunu hæfeð lif éce, seðe uũt ungelefen is ðæm sunu, ne gesiið lif ah uræððo Godes wuneð of- hine.
+\c 4
+\p
+\v 1 ꝥte uũt ongeat se Hæl f-ðon geherdon ða ælaruas, ꝥte se Hæl menigo ðegnas uircað ⁊ fuluað ðon Ioh;
+\v 2 ðæch se Hæl ne fuluuade ah ðegnas his;
+\v 3 f-leort Iudeam ⁊ foerde æft-sona in ðær mægð.
+\v 4 uæs gedæfenlic uũt hine ꝥte of-foerde ðerh Samaria ða burug.
+\v 5 cuom uũt in cæstre Samariæs ðio is gecuoeden Sichar, neh ðær byrig ꝥ salde Iac- Ios- sune his.
+\v 6 uæs uũt ðer uælle Iacobes se Hæl f-ðon uoerig uæs of geonguæs sittende ɫ gesætt suæ of- ꝥ uælle,
+\p tid uæs suelce ðio sesta.
+\v 7 cuom uif of ðær byrig to ladanne uæt- cuæð to hir se Hæl sel me drinca.
+\v 8 ðegnas f-ðon his foerdon in ða ceastre ꝥte metto bochton ɫ ceapadon.
+\v 9 cuæð f-ðon to him uif ꝥ ilca Samaritanisca huu ðu Iũd miððy arð drinca from mec giues ðu ða mið uif Samaritanisca ne f-ðon sint gebyrelico Iũd to Smaraitaniscum.
+\v 10 geonduearde se Hælend ⁊ cuæð to hir gif ðu uistes geafa Godes,
+\p ⁊ hua is seðe cueð to ðe sel me drinca ðu uũt ɫ uoen is gif ðu gegiuedes frõ ðæm ⁊ gesalde ðe ɫ æc ualde gesealla ðe uæt- cuic ɫ lifuelle uæt-.
+\v 11 cuæð to him ꝥ uif la driht- ne: in huon ðu hlada hæfis ðu ⁊ se pytt heh is huona ⁊ huær ergo hæfis ðu uætter cuic?
+\v 12 ahne ɫ hueðer arð ðu mara ɫ héra frõ feder usum Iacob- seðe gesalde us ðiosne pytt ɫ uælla ⁊ he of ðæm dranc æc suno (sunu) his ⁊ feoðorfota ɫ neteno his?
+\v 13 geondsuarede se Hæl ⁊ cueð to him, . . . . . . . .
+\v 14 eghuelc seðe gedrincað of ðæm uætre ꝥ ic sello him ne ðyrsteð\f + \fr 4.14 \ft ðyrðleð [MS. corrected by the same hand] \f* in æcnisse ah uæter ꝥ ic sel him bið in ðæm uælla uætres saltes in lif ǽce.
+\p
+\v 15 cuæð to him ꝥ uif driht- sel me ðis uæter ꝥte ne ic ðyrsto ne ic ne cymo hidder to gehladã.
+\v 16 cueð to hir se Hæl gaa ceig uer ðinne ɫ cym.
+\v 17 geonduearde ꝥ uif ⁊ cueð ne heap ic uer. cueð to hir se Hæl uel ðu cuede ꝥte nafu ɫ ic ne hafu uer,
+\v 18 fifo f-ðon ueras ðu hæfdest ⁊ nu ðoñ ðu hæfes ne is ðin uer ðis soðlice ðu cuede ɫ ðu sægdest.
+\p
+\v 19 cueð him ꝥ uif driht- ic geseam (geseom) ꝥte ðu arð uitga.
+\v 20 aldro uso in more ðisum geuorðadun ⁊ gie cuæðas ꝥte in Hiei- is ðio stou ðer geuorðege (geuorðage) gedæfnad is.
+\v 21 cueð to hise Hæł la uif gelef me f-ðon cuom ðiu tid ðoñ ne on more ðissum ne in Hierosoł geuordðadon ðone fæder.
+\v 22 gie geuorðias ꝥ gienutton uæ orðias ꝥ ue uuton,
+\p ꝥte ɫ f-ðon hælo from Iudeum is.
+\v 23 ah cuom sio tid ⁊ nú is ðoñ soðo uorðares geuorðadun ðone fæder in gaast ⁊ soðfæstnisse, f-ðon ⁊ ðe fæder ðullico soecað ðaðe geuorðias hine.
+\v 24 gaast is God ⁊ ð f-ðon geuorðias hine in gast⁊ soðfæstnisse is gedæfnad uorðia.
+\p
+\v 25 cueð ꝥ uif to him ic uat ꝥte ðe gecorena cuom seðe is gecueden Crst miððy uũt gecymeð he iwh gesægeð alle.
+\v 26 cueð to hir se Hæł ic am ðe ic spreco ðec mið.
+\p
+\v 27 ⁊ recune cuomon ðegnas his ⁊ geuundradon f-ðon mið ðæm uife riordade ɫ spræce nænigmonn hueðre cueð huæd soecas ðu ɫ huæd spreces ðu mið hia.
+\p
+\v 28 forleort f-ðon fételis hire ꝥ uif ⁊ foerde in [30] ða ceastre ⁊ cuæð ðæm monnum
+\v 29 cymeð ⁊ geseað ðonemonno seðe cueð to me alle ðatẽ ɫ suæ huæd ic dyde hueðer ɫ ahne he is Xrs?
+\v 30 eadon út of ðær byrig ⁊ gecuomon to him.
+\v 31 bituih ðæm bedon hine ða ðegnas cueðendo ðu laruu ett ɫ bruc.
+\v 32 he uũt cueð to him ic mett hafo to bruccanne ðone gie ɫ iuh ne uutoon.
+\p
+\v 33 gecuedon f-ðon ða ðegnas hi- bituih ɫ bituien huæðer ɫ huot huogu ɫ ænigmonn ɫ huelc brohte him eatta?
+\v 34 cueð him se Hæł min mett is ꝥte ic doe uillo his seðe gesende mec ꝥte ic geendigo uoerc his.
+\v 35 ahne gie cuoeðas ꝥte geane feuero moneðo sint ⁊ hripes tid cuom? heono ic cuoeðo iuh, ahefað ego iuerro ⁊ geseað ða lond f-ðon huito sint gee ɫ uũt to hrippe.
+\p
+\v 36 ⁊ seðe hrioppað mearda onfoað ⁊ gesomnas uæstem in lif éce ꝥte æc seðe saueð gelic ɫ ætgeadre 'gefeað, ⁊ seðe hrioppað.
+\v 37 in ðis f-ðon is uord soð f-ðon oðer is seðe saues ⁊ oðeris seðe hrioppað.
+\v 38 ic sende iuh gehrioppa ꝥte ne gie wunnon oðero awunnon ⁊ gie in wynn hiora innfoerdon.
+\v 39 of ðær byrig uũt [illã] menigo gelefdon in hine ðara Samaritañisna fẽ word ðæs uifes cyðnise getrymmedes, [32] f-ðon cuæð to me alle ðaðe ɫ suæ huæd ic uorhte.
+\p
+\v 40 miððy cuomon f-ðon to him ða Samaritanisco gebedon hine ꝥte ðer geuunade;
+\p ⁊ uunade ðer tuoege dagas.
+\v 41 ⁊ suiðe ɫ meni- menigo gelefdon fẽ uord his;
+\v 42 ⁊ ðæm uife gecuedon ꝥte soðlice ne fẽ ðinre spréc ue gelefdon ue seolfa f-ðon geherdon ⁊ ue wuton ꝥte soðlice ðes is Hælend middãng.
+\v 43 æft- tuæm uũt dagas ɫ dagũ foerde ðona ⁊ ðona eode in ðær ðeade ɫ gelior-
+\p
+\v 44 he seoł f-ðon se Hæł cyðnisse ðerhtrymede witga on his oeðle ɫ in earde uorðscip ɫ aare ne hæfis.
+\p
+\v 45 miððy uũt gecuome in ðær ðeade genomun ɫ underfengon [33] him hine ða Galilesco menn miððy alle gesegen ðaðe geuorhte Hierusolimiscum on doege halgum ⁊ hia ɫ ðailca f-ðon gecuomon on doege halgum.
+\v 46 cuom f-ðon æfts-ona in ðær byrig [Galilææ] ðær uorhte ꝥ uæt-to uíne. ⁊ uæs sum reigluord ðæs ɫ his sunu ũntrymade ɫ untrymig uæs ða burug.
+\v 47 ðes miððy geherde ꝥte ðe Hæł gecuome of Iudeã in ðær mægð eade to him ⁊ gebæd hine ꝥte adunestige ɫ hine mið feoerde ⁊ gehælde sune his; ongann f-ðon deadege ɫ gesuelta.
+\v 48 cuoeð f-ðon ðe Hæł to ðæm buta beceno ⁊ soða uundra gie gesse ne gelefeð gie.
+\v 49 cuoeð to him se regluord Driht- astig ærðon ꝥon sie dead sunu min. [34]
+\v 50 cueð him se Hæł gaa sunu ðine lifes. gelefde ðe monn ðæm uorde ꝥ ɫ ðone cuoeð him se Hæł ⁊ auegeade.
+\v 51 gee uũt hine stigende ɫ soðlice miððy ðe geeade regluard esnes gwurnun him togægnes ⁊ sægdon cueðendo ꝥte sunu his lifde.
+\v 52 gefrægn f-ðon ða tid frõ ðæm in huelce ꝥ betre hæfde. ⁊ cuoedon him ꝥte gioster doeg [hora] ðio seofunda f-leort hine ꝥ feferadł.
+\p
+\v 53 ongeat f-ðon se fæder ꝥte ðeiu tid uæs in ðær cuæð to him se Hæł sunu ðin lifeð. ⁊ gelefde ðeilca ⁊ hus his all.
+\v 54 ðis æfts-ona ðe æftr-a becon dyde se Hæł miððy gecuome frõ Iũd in ðær mægð.
+\c 5
+\p
+\v 1 [35] æft- ðas uæs halig doeg ɫ symbel doeg Iũd ⁊ astag se Hæł Hier-.
+\v 2 is uũt Hier-, of- ꝥ burg fiscepol ðio is genemned on ebrisc ðæt is burug,
+\p ⁊ fif portas hæfis.
+\v 3 in ðæm gelæg menigo micelo ðara unhalra ɫ adligra blindena halt-, scryngcara biddendra uætres ymbcerr ɫ styrẽ.
+\v 4 engel uũt Diht- æft- tid of dune astag in ꝥ uoel ɫ in ꝥ fiscpol ⁊ ymbcerde ꝥ uæter seðe f-ðon ærist ofdune stagade ɫ foerde in æft- styrenise uætres hal son uere frõ suæhuælc uunhælo ɫ adle uere ahalden.
+\v 5 uæs uũt sum monn ðer ðrittih ⁊ æhto uintro ɫ gero hæbbende in his untrymnise.
+\v 6 ðionne miððy gesæh se Hæł licgende ⁊ miððy ongæt ꝥte suiðe longe uũt tid ɫ huil hæfde,
+\p cuæð to him uiltu hal uosa?
+\v 7 geonduearde him ðe unhala Driht- monno ɫ helpend ne hafo ic ꝥte miððy gestyred uæs ɫ bið uæt- gesende mec in ꝥ fiscpol ða huile ic cymo f-ðon ic oðer ær ɫ befẽ mec gestige.
+\p
+\v 8 cuoeð to him se Hæł aris nim bed ɫ beer ðin ⁊ gaa.
+\v 9 ⁊ recone hal auarð ɫ geuorden uæs ð monn ⁊ genom ɫ underfeng beer his ⁊ geade ɫ geongende uæs. uæs uũt Iudẽ sunnedæg in ðæm dæge.
+\v 10 cuoedon Iũd ðæm seðe gehæled uæs symbeldæg is ne is gelefed ðe ꝥ ðu geniomæ beer ðin.
+\v 11 geondsuearade ðæm seðe mec dyde hal, he me cuoeð genim beer ðin ⁊ gaa.
+\v 12 gefrugnon forðon hine huelc is ðeilca monn seðe cuæð ðe nim bed ɫ bér ðin ⁊ gaa?
+\v 13 ðe ilca uũt seðe hal uæs geuort nyste ɫ ne cuðe hua were ɫ uæs
+\p se Hæł f-ðon frõgebeg ðe menigo efnegesettedo in stou.
+\v 14 æft- ðæm gemoette hine se Hæł in ðæm temple ⁊ cuæð to him, heono hal auorden arð gee nelle ðu syngige ꝥte ne wyrse ɫ yfles ðe hodhuoegu belimpe.
+\v 15 [38] foerde ðe monn ⁊ isægde Iũd ꝥte ðe Hælend seðe dyde hine hal.
+\p
+\v 16 fẽ ðæm ɫ geoehtadon Iũd ðone Hæł f-ðon ðas geuorhte in symbeldæg ɫ.
+\v 17 se Hæł uũt geonduearde hi- se fæder min frõ ðissa ɫ wyrcað ⁊ ic wyrco.
+\p
+\v 18 fẽ ðæm uũt suiðor sohton hine Iũd to cwoellanne f-ðon ne ꝥ ane untynde ðone sunnedæ ah æc fæder his cuoeð ꝥ God uere gelíc hine wyrcende Gode.
+\p
+\v 19 geondsuarade forðon se Hæł ⁊ cuæð to him soðlic soð is ꝥ ic cueðo iuh ne mæg sunu from hi- wyrca ænihg buta ꝥte gesii fæder wyrcende;
+\p suæ hæd f-ðon ðe ilca ɫ he wyrceð ðas æc ðe sune gelic [39] wyrcas.
+\v 20 se fæder f-ðon lufað ðone sunu ⁊ alle adeude ɫ adeaude him ðaðe he wyrcað ⁊ ða maasta her ɫ adeaueð him woerca ꝥte gie wundria.
+\v 21 suæ f-ðon se fæder auæcceð ða deado ⁊ inlihteð ɫ cwicað suæ æc ðe sunu ðaðe uil cuicað.
+\v 22 ⁊ ne f-ðon ðe fæder doemað ænig ah dom eghuelc gesalde ðæm sunu;
+\v 23 ꝥte alle worðaiges ɫ ðone sunu suæ worðias ðone fæder.
+\p seðe ne uorðageð ðone sunu ne uorðages ðone fæder seðe asende hine.
+\p
+\v 24 soð is soð is ꝥ ic cueðo iuh ꝥte seðe uord min geheres ⁊ gelefes ðæm seðe asende mec hæfeð lif [40] éce ⁊ in dom ne cymes ah of-lioræs from deaðe in life.
+\v 25 soð is soðlice ꝥ ic cueðo iuh ꝥte cymmes ðio tid ⁊ nú is,
+\p ðoñ ða deado geherað stefn sunu Godes ⁊ ðaðe geherað hia lifias. [P182]
+\v 26 suæ f-ðon se fæder hæfeð lif in hine seolfne, [C ✠] suæ salde æc ðæm sune lif to habbanne in hine seolfne.
+\v 27 ⁊ mæht salde him ⁊ dom gewyrca f-ðon sunu monnes is.
+\v 28 nallað gie uundraige ðis, forðon cuom sio tid in ðær alle ðaðe in byrgennũ sint gehereð stefn his,
+\v 29 ⁊ f-ðcymeð ɫ ðaðe goda worhton in erest lifes, [41] ðaðe uũt yflo dydon ɫ in erest domes.
+\v 30 ne mæg ic frõ mec seolfe wyrca ænight suæ ic geherde ic doeme ⁊ dom min soðfæst is,
+\p f-ðon ne soeco ic uillo min ah uillo his seðe mec asende.
+\p
+\v 31 gif ic cyðnisse ic trymme of mec cyðnisse min ne is soð.
+\v 32 oðer is seðe cyðnise getrymeð of mec ⁊ ic uat ꝥte soð is ꝥ cyðnise ꝥ getrymeð of mec.
+\v 33 gie gesendon to Iohãn ⁊ cyðnise getrymede to soðfæstnise.
+\v 34 ic uũt ne frõ menn cyðnise onfoe ic ah ðas ic cueðo ꝥte gie halo sie.
+\v 35 he uæs þæccille ɫ lehtfæt bearnende ⁊ [42] lixende ɫ scinende gie uũt waldon gefeage to tid in leht his.
+\p
+\v 36 ic uũt ic hafu cyðnise mare Ioh-, uoerco f-ðon ðaðe salde me ðe fæder ꝥte ic geendia ða ðailco uerca ðaðe ic wyrco cyðnise getrymeð of mec ɫ ymb mec f-ðon ðe fæder mec asende.
+\v 37 ⁊ seðe sende mec fæder, he cyðnisse getrymede of mec.
+\p ⁊ ne stefne his æfra geherdon ⁊ ne megulit his gesegon.
+\v 38 ⁊ uord his ne habbas gie in iuh uuniande f-ðon ðone sende he ðissum [vos] ne gelefes ge.
+\v 39 smeas gie ða uriotto f-ðon gie woenas in ðæm lif éce hæbbe ⁊ ðailco sint ðaðe cyðnise [43] getrymes ymb mec.
+\v 40 ⁊ nallas gie gecyme ɫ cuma to me ⁊ lif gie habbas.
+\v 41 brehtnise frõ monnũ: ne onfoe ic.
+\v 42 ah ic cuðe iuih ꝥte lufu Godes ne habbas gie in iuih.
+\v 43 ic cuom in noma fadores mines ⁊ ne onfoes gie mec gif oðer cymes in noma his hine ɫ ðene gie onfoas.
+\v 44 huu mago gie iuh gelefa, gie wuldor bituih ɫ bituien onfengon,
+\p ⁊ ꝥ wuldor ðio frõ ane is Gode ne soecað gie.
+\v 45 nalle gie woenæ ꝥte ic f-hycgende sie [vos] mið ðone fæ- is seðe f-hycgað [vos] Moises, in ðæm gie hyhtas.
+\v 46 gif f-ðon gie gelefde Moisi gie gelefdon woenunge ɫ ⁊ me of mec f-ðon he aurat. [44]
+\v 47 gif uũt ðæs stafum gie ne gelefeð huu minum uordũ gelefes gie?
+\c 6
+\p
+\v 1 æft- ðas foerde se Hæł of- sæes Galił ꝥ is ꝥ luh.
+\v 2 ⁊ gesohte him ɫ fylgede hine menigo miclo f-ðon gesæh beceno ðaðe uorhte of- ðæm ðaðe ueron untrymig ɫ untrymigdon.
+\p
+\v 3 foerde f-ðon on more se Hæł ⁊ ðer gesætt mið ðegnum his.
+\p
+\v 4 uæs uũt neh ɫ eastro symbeldoege Iudeã.
+\p
+\v 5 miððy underhof ɫ uũt ego se Hæł ⁊ gesege ꝥte [45] ðio menigo miclo cuom to him cuæð to Philippum huona byges ue hlafo ꝥte gebrucce ðas?
+\p
+\v 6 ðis huæðre cuæð ꝥte gecostade hine he f-ðon wiste huæd uere aworht ɫ gedoen uæs.
+\v 7 geonduearde him Piłi tuu hund pennĩga to hlafoũ ne genyhtsumiað hi- ꝥte an eghuelc lyttel hothuoego onfoe.
+\v 8 cuoeð to him an of ðegnum his, [Andreas] broðer Sim- Pẽ,
+\v 9 is cnæht an her seðe hæfeð fife hlafas bere ⁊ tuoege fisces ah ðas huæd aron bituih menigo ɫ hia sint to menigo?
+\p
+\v 10 cuoeð f-ðon se Hæł uyrcas ɫ does ða menn ꝥte gesitta. [46] uæs uũt gærs ɫ heig micil on ðæm styd. gesetton uũt ueras of tal ɫ getaled suelce fifo ðusendo.
+\v 11 onfeng f-ðon ða hlafo se Hæł ⁊ miððy ðoncunge dyde salde ðæm sittendum gelic of ðæm fiscu- suæ feolo ualdon.
+\v 12 ꝥte uũt gefylldo ueron cueð ðeignum his somnias ðaðe hia gelefdon ɫ ða screadunga ꝥte losia.
+\v 13 gesomnadon f-ðon ⁊ gefyldon tuoelfe ceoulas ðara screadunga of fif hlafum bere ðaðe gelæfdon ɫ ueron to lafe of ðæm ðaðe geeton.
+\p
+\v 14 ða uũt ða menn miððy gesegon ꝥte geuorhte [47] becon gecuedon ꝥte ðes is soðlice witga seðe tocymende uæs in middãn.
+\v 15 se Hæł f-ðon miððy ongætt ꝥte tocymmende ueron ꝥte hine genomo hine ꝥte ⁊ geuorhto hine to cynige,
+\p flæh ef-tsona on more hi- ane.
+\v 16 ꝥte soða smyltnise auorden uæs ofstigon ɫ foerdon ðegnas his to sæ.
+\v 17 ⁊ miððy astag- ꝥ scipp cuomon of- sæ in ðær byrig ⁊ ðiostro fæstlice ɫ gee auordeno ueron ⁊ ne cuome to ðæm ɫ to hi- se Hæł.
+\v 18 ðe sæ uũt winde miclum f-blauene ofstod ɫ aras.
+\v 19 miððy ræuun f-ðon ɫ ðoñ suælce spyrdo fif ⁊ tuentig ɫ ðrittig geseað ðone Hæł geongende of- ɫ on ðæm sæ ⁊ neh tom scipp uosa [48] ⁊ ondreardon.
+\v 20 he ða cueð to him ic am nællað ge ondrede.
+\v 21 waldon (ualdon) f-ðon onfoa hine in ðæm (ðæt) scipp ⁊ sona uæs ꝥ scipp to ðæm to ðæm eorðe ꝥ ðe ðidder foerde.
+\v 22 oðero doeg ꝥ ðreat ðio gestód begeonda sæ gesæh ꝥte floege ɫ lyttel scipp oðer ne uæs ðær buta an ⁊ ꝥte ne infoerde mið ðegnum his se Hæł in ꝥ scipp ah hia ane ðegnas his foerdon,
+\v 23 oðero æc of-cuomon scioppo of ðæm londe neh ðær stoue ðær geéton ꝥ breád ðoncunge dédon ɫ Drihtne.
+\v 24 miððy uũt gesæh ðio menigo ꝥte se Hæł ne uæs ɫ uere ðer ne æc ðegnas his astigon ða scioppo ⁊ cuomon to ðær byrig sohton ɫ soecendo ðone Hæł. [49]
+\p
+\v 25 ⁊ miððy gemoeton hine begeande sæ cuoedon to him ðu laruu huonne hidir ɫ cuome ðu?
+\v 26 ondsuearade him se Hæł ⁊ cueð soð is soð is ꝥ ic cueðo iuh gie soecas mec ne f-ðon gie segon beceno ah f-ðon gie gebrecon of ðæm hlafum fifu ⁊ gefylled gie aron.
+\v 27 wyrcas gie ɫ ne mett seðe losað ah seðe ðerhuunað in lif éce ðone sunu monnes iuh seles ðiosne f-ðon fæder gemercade God.
+\v 28 cuoedon f-ðon to him huæd wyrcas ue ꝥte ue gewerco uerco Godes?
+\v 29 geonduearde se Hæł ⁊ cueð to him ðis is uerc Godes ꝥte ge gelefo on hine ðone ilca sende he is.
+\p
+\v 30 cuoedon f-ðon hi- to huælc ɫ huæd ðoñ ðu wyrcas becon ꝥte ue gesee ⁊ ue gelefæ ðe ꝥ ɫ huæd wyrcas ðu ɫ ðu doæs?
+\p
+\v 31 fadero ɫ aldro usero heofuncund mett gebrécon ɫ geéton on ðæm uæstern suæ uuriten is hlaf ɫ fostrað of heofnum\f + \fr 6.31 \ft ·/· huidcórn sonulad. f- huætte cuom of heofenum ⁊ feoll on moisi mið his folce on ðæm more, ðer he uæs. \f* salde him eatta.
+\v 32 cuoeð f-ðon him se Hæł soð is soð is ꝥ ic cueðo iuh ne Moisi salde iuh ꝥ hlaf of heofnum ah fædermin seleð iuh hlaf of heofnum soð ɫ reht.
+\v 33 hlaf f-ðon Godes is seðe of dune stag of heofnũ ⁊ seleð lif middãn.
+\v 34 cuedon f-ðon to him la Driht- symle sel us hlaf ðiosne.
+\p
+\v 35 cueð uũt ɫ ða him se Hæł ic am hlaf lifes [51] seðe cymes to me ne hyncgreð hine ⁊ seðe gelefes on mech ne ðyrstes æfre.
+\v 36 ah ic cueð iuh ðaðe gie gesegon mec ⁊ ne gelefeð gie.
+\v 37 alle ꝥte seleð me fæder to me cymeð
+\p ⁊ ðe seðe cuom to me ne uorpo ic út.
+\p
+\v 38 f-ðon ofdune stag of heofnũ ne ꝥte ic doe uillo min ah uillo ðæs ɫ his seðe sende mec.
+\p
+\v 39 ðios is uũt uillo his seðe sende mec ðæs fadores ꝥte all ꝥ salde me ne ic losige ɫ ꝥte ic ne spille (spillo) of ðæm ah eftaueco ðoñ ɫ hine on ðæm hlætmesta doeg.
+\v 40 ðios is f-ðon uillo fador mines seðe sende [52] mec ꝥte eghuelc seðe gesiið sunu ⁊ gelefeð on hine hæfeð lif éce ⁊ aueco ic hine in ðæm hlætmeste dæg.
+\p
+\v 41 hwæstredon ɫ missprecon deigł f-ðon Iũd of hi- ɫ ymb hine f-ðon he cueð ic am hlaf seðe of heofnũ ic ofdune stag.
+\v 42 ⁊ cuedon ahne ðis is se Hæł sunu Iosephes ðæs ue wutton fæder ⁊ moder huu f-ðon cuæðes ðes ꝥte of heofnũ ic ofdune stag?
+\p
+\v 43 geonduarde f-ðon se Hæł ⁊ cuæð to him nallað huæstria ɫ misspreca [in] bituien.
+\v 44 ne ænigmonn mæge cuma to me buta fador seðe sende mec genĩmæ hine ⁊ ic aueccæ hine in ðæm hlætmesta dæge.
+\v 45 is [53] auritten in uitgũ ⁊ biðon alle laruas Gode ɫ gelæredo Godes eghuelc seðe geherde from feder ⁊ geliornade cymeð to me.
+\p
+\v 46 ne f-ðon ðone fæder gesæh ænig buta ðe seðe is from Gode ðes gesæh ðone fæder.
+\p
+\v 47 soðlice soð is ic cuoeðo iuh seðe gelefeð in mec hæfeð lif éce.
+\p
+\v 48 ic am hlaf lifes.
+\p
+\v 49 aldro iuero gebrecon in uæstern fostrað ⁊ deado ueron.
+\v 50 ðis is hlaf of heofnum ufa stigende ꝥte gif huælc [hualc] of ðæm gebrucceð ne bið dead ɫ ne deadageð.
+\p
+\v 51 ic am hlaf cuic ɫ lifiende ðeðe of heofnum [54] ic ufa stag gif huælc gebrucces of ðisse hlafe lifeð in écnise ⁊ hlaf ðone ic selo lichoma min is fẽ middãn lif.
+\v 52 gecídon ɫ getugon f-ðon Iũd bituih cuoeðendo,
+\p huu mæge ðés lichoma his us gesealla to eattanne?
+\v 53 cuoeð f-ðon him se Hæł soðlice soð is ic cueðo iuh buta gie gebrucce ɫ lichoma sunæ monnes
+\p ⁊ gie gedrinca his blod ne habbað gie lif in iuih.
+\v 54 seðe gebruccað min lichom ⁊ drincað min blod hæfeð lif éce ⁊ ic auoecco hine on ðæm hlætmestæ dæge. [55]
+\p
+\v 55 lichõa f-ðon min soðlice is mett ⁊ blod min soð- is drinca.
+\p
+\v 56 sẽðe bruccað min lichoma ⁊ drincað min blod on [in] mec uunes ⁊ ic in ðæm
+\v 57 suæ gesende mec ðe lifiende fæder ⁊ ic liofo fẽ mec.
+\v 58 ðes is hlaf seðe of heofnũ ofdune astag,
+\p ne suæ gebrécon aldro iuero ꝥ heofonlic met ɫ ⁊ deado sint. seðe bruccað ðiosne hlaf liofað in ecnisse.
+\v 59 ðas cuæð in somnunge lærde in ðær byrig.
+\v 60 menigo fẽðon geherdon of ðegnum [56] his cuoedun stið is ðis uord hua mæge hine gehera?
+\v 61 uiste uũt se Hæł mið hine seolfne fẽðon ɫ ꝥte hwæstredon ɫ missip- of ðis ðegnas his cuæð him ðis iuih ondspyrneð?
+\v 62 gif uũt gie geseað sunu monnes ofdune stigende ðer uæs ærist?
+\p
+\v 63 gaas [est] seðe liffæstas lichoma ne fs-tondes æniht,
+\p uordo ðaðe spræcende ɫ am iuh gast ɫ lif sint.
+\p
+\v 64 ah aron ɫ sumo frõ iuh ðaðe ne glefað uiste f-ðon frõ fruma se Hæł ⁊ ðaðe uoeron gelefendo ⁊ hua sellende uere hine.
+\v 65 ⁊ cuæð fẽðæm [57] ic cuæð iuh ꝥte nænigmonn mæge gecuma to me buta sie him gesald from feder minum.
+\v 66 of ðis menigo ðegna his frõfoerdoon on bæcling uũt ne mið hine geeadon.
+\v 67 cuoeð forðon se Hæł to ðæm tuoelfũ hueðer ⁊ gie uallað fara ɫ frõgeonga?
+\v 68 geonduarde f-ðon him [Simon] Petrus Drihten to huæm woe geonge? uordo lifes ece ðu hæfes.
+\v 69 ⁊ et ue gelefdon ⁊ ue ongetton f-ðon ðu arð [Xrs-] sunu Godes.
+\v 70 geonduearde him se Hæł ahne ic iuih tuelfo geceas ⁊ of iuh an diul is?
+\v 71 cuæð uut Iũd [Simonis] ðæs londes,
+\p ðes f-ðon uæs sellend hine miððy uæs an of ðæm tuelfũ.
+\c 7
+\p [58]
+\v 1 æft- ðas foerde se Hæł in ðær mægð ne f-ðon walde in Iũd geonge f-ðon sohton hine Iũd to acuellanne.
+\v 2 uæs uũt ón neh doeg symbel Iũd temples mæssa.
+\p
+\v 3 cuoedon uũt to him broðro his fær heana ⁊ gæ ɫ geonge in Iudea ꝥte ⁊ ðegnas ðine geseað uoerco ðino ða ðu does ɫ wyrcað.
+\v 4 neanigmonn f-ðon in degle ɫ in deigelnise huodhuoegu wycað ⁊ soecað he in eaunge ꝥte se gif ðas ðu wyrcas adeaua ðec seolfne middangdẽ.
+\v 5 ⁊ ne f-ðon broðro his gelefdon on hine.
+\v 6 cuoeð f-ðon him se Hæł tid min ne ðaget cuom tid uũt iuero symble is gearua.
+\v 7 ne mæge [59] se middãng gefiage iuih mec uũt gefiað f-ðon ic cyðnise getry-me of him ɫ ðæm f-ðon uoerca his yflo sint.
+\v 8 gie astiges to doege symbel ðiosne ɫ ðissum ic ne astigo ic to doege symbel ðissum f-ðon min tid ne ðaget gefylled is.
+\p
+\v 9 ðas miððy gecuede he wunade in ðær m-.
+\v 10 ꝥte uũt astigon broðro his ða ⁊ he astag to doege symbel ne ɫ no euunge ah suelce in degle.
+\v 11 Iũd f-ðon sohton hine in doege symbel ⁊ cuoedon ðer is he?
+\v 12 ⁊ huæstrung micel from ðæm uæs in ðreat; sumo oðoro f-ðon cuoedon f-ðon god is, [60] oðoro uũt cuoedon næso (næse) ah besuicað ða menigo.
+\v 13 nænig huæðre eaunge gespræc of him fẽ fyrhto Iũd.
+\v 14 gee uũt doeg ðe symbel miððy geworht uæs astag se Hæł in tempł ⁊ lærde.
+\v 15 ⁊ wundradon Iũd cuoedon huu ðes stafas wat miððy ne geliornade?
+\v 16 geonduearde him se Hæł ⁊ cuæð min laar ne is min ah ðæs seðe sende mec.
+\v 17 gif hua uælle uillo his geuyrca ongetteð of laar hueðer frõ Gode sie ɫ ic from me seolfeum spreco.
+\v 18 seðe from hine seolfne spreceð ɫ frõ hi- seolfũ uuldor suundor soecað seðe uũt soecas uuldor his seðe sende hine ðes soðcuoed is ⁊ [61] unsoðfæstnise in ðæm ne is.
+\v 19 ahne Mois- salde iuh æ ⁊ nænig of iuh wyrcas æ. f-huon mec gie soecas to acuoellanne?
+\v 20 geonduarde ðio menigo ⁊ cuoeð diul ðu hæfis hua ðec soecað to acuoellanne?
+\v 21 geonduarde se Hæł ⁊ cuæð ðæm an uoerc ic dyde ɫ ic uorhte ⁊ gie alie wundriað.
+\p
+\v 22 f-ða ɫ f-ðon Mois- salde iuh ymbhuungun ne ꝥte frõ Mose is ah frõ aldrum,
+\p ⁊ in symb- ɫ sunned- ge ymbcearfas ðone monnu.
+\v 23 gif ꝥ ymb-nise onfoeð se monn in sunnedæge ꝥte ne se undoen æ Moises me gie iorsiges ꝥte ɫ f-ðon all [62] ðone monno hal ic worhte to sunned-?
+\v 24 nælle gie gedoema æft- onsione ah soðfæst dom gedoemað.
+\v 25 cuoedon f-ðon sũmo oðoro from Hieru- ahne ðes is ðone soecað to acuellanne?
+\v 26 ⁊ heono eaunge sprecað ⁊ noht him cuæðas. hueðer soðł ongetun ða aldormenn ꝥte ðes is Crist?
+\v 27 ah ðiosne we uuton huona sie Crist uũt miððy gecymes nænig ⌹ uat huona sie ɫ bið.
+\v 28 uæs clioppande forðon lærde in temple se Hæł ⁊ cuæð, ⁊ mec gie uuton ⁊ huona ic am gie uuton ⁊ frõ me seolfe ne ic cuom ah is soð seðe sende mec ðone gie ne uuton.
+\v 29 ic uat f-ðon ꝥte frõ him ic am ⁊ he mec sende.
+\p [63]
+\v 30 sohton f-ðon hine to grioppanne\f + \fr 7.30 \ft ꝥte hia hine gefengo\f* ⁊ nænig ⌹ sende on him hond f-ðon ne ðaget cuom tid his.
+\p
+\v 31 of ðær ðreate ɫ menigo uũt meni- gelefdon on him ⁊ cuoedon Crist miððy cymeð hueðer menigo beceno ɫ mæ wundra wyrcað ðon ðaðe ðes wyrcað.
+\v 32 geherdon ða ælaruas ꝥ ðreat huæstrende of ðæm ðas ⁊ sendon ða aldormenn ⁊ ælaru- embehtmenn ꝥte hia gegrioppo [eum].
+\p
+\v 33 cuæð f-ðon se Hæł ðaget lytle tid ɫ huile mið iuh am ⁊ ic geonge to ðæm seðe sende mec. [64]
+\p
+\v 34 gie soecas mec ⁊ ne gemoestað gie ⁊ ðer am ic gie ne mago cume.
+\v 35 cuoedon f-ðon Iũd to him seolfum ðadder ðes færende is ɫ uæs f-ðon ne gemoette ue hine? hueðer on towyrpnise hædno færende is ⁊ lærend hædno?
+\v 36 huæd uæs ðis uord ðone cuoæð soecað gie mec ⁊ ne gemoeteð? ⁊ huer am ic ne mago gie cume?
+\p
+\v 37 in ɫ on ðæm hlætmesta uũt dæg micle ðæs symbles gestod se Hæł ⁊ cliopade ɫ cuæð seðe ðyrsteð cyme to me ⁊ drincað.
+\v 38 seðe gelefað on me suæ cuæð ꝥ uritt streamas of uombe his flouað uætro cuico ɫ lifigendo laro. [65]
+\v 39 ðis uũt cuæð of gaste ðone ondfengo uoeron ðaðe lefdon on him [non] f-ðon uæs se gast ꝥte ɫ f-ðon se Hæł ne ðageane uæs geuuldrad.
+\p
+\v 40 of ðær tid se ðreat miððy geherdon ðas uordo his cuoedon ðes is soð uitga.
+\v 41 oðero cuoedon ðes is cynig. sum-o oðoro fæstlice cuoedon huoeðer of ðær mægð Crist cuom?
+\v 42 ahne ꝥ uritt cueð ꝥte of séd Dauides ⁊ of Bethlem byrig ɫ ceastre ðer uæs Dauid cuõ Crist?
+\p
+\v 43 toslittnise ɫ únsib f-ðon auorden uæs in ðær menigo fẽ hine.
+\p
+\v 44 sumo fæstli- of ðæm ualdon ɫ uilnadon [66] gegrioppa hine ah nænig ⌹ sende of- hine hond.
+\p
+\v 45 cuomun f-ðon ða embehtmenn to ðæm aldormonnũ ⁊ ða ælaruas ⁊ cuoedon him ða f-huon ne gebrohton gie hine gie?
+\v 46 ondueardon ða ðegnas næfre suæ sprecende uæs monn suæ ðes monn.
+\v 47 geondsuearadun f-ðon him ælarũ huoeðer eæc gie besuicen aron?
+\v 48 huoeðer ænig frõ aldormonnũ gelefeð on hine ɫ ofælarũ?
+\v 49 ah ðreat ðios ðaðe ɫ ðio ne uat ɫ nyste æ auoergato (auoergado) sint.
+\v 50 cuoeð ðe ðegn to ðæm he seðe cymeð to him on næht seðe an uæs of ðæm.
+\v 51 hueðer æ usra doemað ðoemað\f + \fr 7.51 \fq ðoemað \ft "Error of glossist."\f* [67] buta gehere frõ ðæm ær ɫ ⁊ ongette huæd wyrcas?
+\v 52 geonduardon ⁊ cuoedon him,
+\p huæðer æc ðu Gał arð smeage ⁊ gesægh f-ðon uitga frõ Gał ne ariseð ɫ.
+\v 53 ⁊ gecearredo ueron ɫ gecerred uæs ehguelc in hus hiora.
+\c 8
+\v 1 se Hæł uũt foerde on more Oleuetes.
+\v 2 ⁊ ærlice ɫ æft-sona cuom in temple ⁊ all folc cuom to him,
+\p ⁊ sæt lærde hia.
+\v 3 læddon ɫ brohton uũt ða wuðuotto ⁊ ælarũ uif in ðernelegerscip ofnumen [68] ɫ befoen ⁊ aseton ðailca hia on middum,
+\v 4 ⁊ cuoedon him laar,
+\p ðius (ðios) uif nú benumen is in ðernelegerscip.
+\v 5 in æ uũt Mois- bebead us ðuslic gestæna; ðu f-ðon huæd cuæðes?
+\v 6 ðas uũt cuoedon cunnedon hine ꝥte hie mago ɫ mæhton ghæne hine.
+\p se Hæł uũt gebeg hine frũ suunder mið fingre auritteð ɫ aurat on eorðe.
+\v 7 miððy uũt ðerhuunadon frugnun hine ahof hine ⁊ cuæð him seðe buta synne his iuerro ærist on ðær ɫ on hia stan sendeð.
+\v 8 ⁊ æft- hine gebeg aurát on eorðu.
+\v 9 miððy geherdon uũt [69] an æft- anum fromfoerdon ongann of ðæm aldrum ⁊ geuunade ɫ abad him ane ⁊ ꝥ uif on middum stod.
+\v 10 ahof uũt hine se Hæł cuæð to hir,
+\p ꝥ uif huer sint ðaðe ðec gehenað nænigmonn geniðrað ɫ gehænas ðec?
+\v 11 ðio cuæð nænig ⌹ driht- cuoeð uũt se Hæł ne ic ðec geniðro geong ɫ gæa ⁊ f-ðor ɫ suiðor [jam] nælle ðu synngege (synngega).
+\p
+\v 12 æftsona f-ðon spreccend uæs him se Hæł cuoeð ic am leht middang-des seðe fylgeð ɫ soecas mec ne gæð in ðiostru- ah hæfeð leht lifes.
+\v 13 cuoedon f-ðon him ða aldo ælaru- ðu of ðe seolfe cyðnisse getrymes [70] cyðnisse ðin ne is soð.
+\v 14 geonduarde se Hæł ⁊ cuæð him ðah ic cyðnise getrymmo of mec seolfne soð is cyðnis min f-ðon ic uat huona ic cuom ⁊ huidder ic geonge gie uũt ne uutto gie huona ic cymo ɫ huidder ic gæ.
+\v 15 gie æft- lichoma gedoemas,
+\p ic ne doemo ænigne ⌹ no.
+\v 16 ⁊ ðæh ic gedoemo dom min soð is f-ðon ana ne am ic ah ic, ⁊ seðe mec sende fæder.
+\v 17 ⁊ on æ iuer auritten is f-ðon tuoegara monna uittnesa ɫ soð is.
+\v 18 ic am seðe uittnesa getrymo of mec seoł ⁊ cyðnise getrymes ymb mec seðe [71] sende mec fæder is.
+\v 19 cuoedon f-ðon him huer is fæder ðin?
+\p geonduearde se Hæł ⁊ ne mec uutto gie ⁊ ne ł ne æc fæder min gif [me] gie uiston eaðe mæg ⁊ fæder min gie uiston.
+\p
+\v 20 ðas uordo spreccend uæs in ·/· divitar- custodia lærde in temple ⁊ nænig ⌹ gelahte hine f-ðon ne ðaget gecuom tid his.
+\p
+\v 21 cuoeð f-ðon eft̃sona hi- se Hæł ic geonga ⁊ gie fylges mec ɫ soecas ⁊ in synno iuero deadegeð ɫ gie biðon ðidder ic giungo gie ne mago cuma.
+\v 22 cuoedon f-ðon Iũd huoeðer ofslæð hine seolfne f-ðon cuæð ðidder [72] ic gæ gie ne magon cume?
+\v 23 ⁊ cuoeð him gie from neaða aron,
+\p ic frõ heanissũ am gie of myiddãng ðissũ sint ic ne am of ðisũ middãng.
+\v 24 ic cueð iuh ꝥte gie biðon deada in synno iuero gif f-ðon ne uallað gelefa ꝥte ic am gie biðon deado in synne iuero.
+\p
+\v 25 cuoedon f-ðon him ðu hæd arð cuæð him se Hæł frũma seðe æc ic spreco iuh.
+\v 26 feolo ic hafo of iuih to sprecane ɫ spreca ⁊ doema ah seðe sende mec soð cuoed is; ⁊ ic ðaðe geherde from hi- ɫ ðæ- ðas sprecco ic in middãng.
+\v 27 ⁊ ne ongeton ꝥte fæder his cuæð.
+\v 28 cuæð f-ðon hi- se Hæł miððy [73] gie ahefeð sunu monnes ða gie ongeattað ꝥte ic am,
+\p ⁊ frõ me seolfum ic wyrco noht ah suæ gelærde mec ðe fæder ða ic spreco.
+\v 29 ⁊ seðe mec sende mec mið is non f-leteð ɫ ne f-leort me ana f-ðon ic ðaðe gecuoemo sint him ic wyrco symble.
+\v 30 ðas hine sprecende ɫ miððy he uæs sprẽc menigo gelefdon on him.
+\v 31 cuæð f-ðon se Hæł to ðæm ðaðe gelefdon him ðara Iudeã gif gie gewunas in uorde minum soðlice ðeignas mina gie biðon.
+\v 32 ⁊ ge ongeton soðfæstnisse ⁊ soðfastnise gefriað iuih.
+\v 33 geondueardun hi- sed Abrahames ue sindon ⁊ nænigum ue geherdon æfre huu ðu cueðes ge biðon [74] gefriad?
+\v 34 geonduarde him se Hæł soð is soð is ꝥ ic cueðo iuh,
+\p ꝥte eghuelc seðe wyrcas synne ðræl is synnes.
+\v 35 esne uũt ne uunað in hus in ecnisse ðe sunu (sune) wunet in ecnisse.
+\p
+\v 36 gif uũt ðe sune iuih gefriað soðlice freo gie biðon.
+\v 37 ic uat ꝥte suno Abrahames gie aron ah gie soecas mec gecearfa ɫ to accuellanne ꝥ ɫ f-ðon uord min ne nimeð in iuh.
+\v 38 ic ꝥ gesæh æt ðæm fæder ic spreco ⁊ gie ðaðe gie gesegon æt feder iurum gie wyrcas.
+\v 39 geonduærdon ⁊ cuoedon him,
+\p fæder user Abrã is. cuoeð him se Hæł gif suno [75] Abrahames ge sint uoerco Abrã wyrcas.
+\v 40 nú uũt gie soecas mec to cuelł ɫ gecearfa ðone monno seðe soðfæstnise iuh spreccende am ðæs ɫ ꝥ ðe ic geherde from Gode ðis Abrã ne dyde.
+\v 41 gie wyrcað uerco fadores iueres. cuoedon f-ðon him ue from forleiger- nearu ue gecenned ɫ acceñ enne fæder ue habbað God.
+\v 42 cuoeð f-ðon him se Hæł gif God fæder iuer uoere gie ualde lufiga uũt mec ic f-ðon frõ Gode foerde ⁊ cuom ⁊ ne f-ðon frõ me seolfũ cuom ah he mec sende.
+\v 43 f-huon sprec min ne ongeatas gie? f-ðon ne mago gie gehere uord min.
+\v 44 gie frõ fader [76] diabuł gie aron ⁊ uillo fadores iueres gie uallas wyrca he monnslaga uæs frõ frum-a ⁊ in soðfæstnise ne stod f-ðon nis soðfæstnise in him miððy spreceð leasung frõ syndrigum sprecað f-ðon leas is ⁊ fæder his.
+\v 45 ic uũt f-ðon soðfæstnise ic cueðo ne gelefeð gie me.
+\v 46 huele frõ iuh geðreað mec frõ synne? gif soðfæstnise ic cuoeðo f-huon gie ne gelefeð gie me?
+\v 47 seðe is frõ Gode uorda Godes gehere fẽðon gie ne geherdon the frõ Gode sint.
+\v 48 geondueardon ðoñ ɫ f-ðon Iũd ⁊ cuoedon him ahne bloedsade ue usic ɫ sægnade usic f-ðon Samari- arð ðu, ⁊ diuł hæfes? [77]
+\v 49 onduearde se Hæł ic diuł ne hafo ic, ah ic uorðige fæder min ⁊ gie unuorðade mec.
+\v 50 ic uũt ne soeco ic wuldor min, is seðe soecað ⁊ doemað.
+\v 51 soð is soð is ꝥ ic cuoeðo iuh, gif hua uord min gehaldað, deað ne geseað in ecnisse.
+\p
+\v 52 cuoedon f-ðon Iũd nú ue ongeton ꝥ diuł hæfis. Abrah- dead is ⁊ uitga ⁊ ðu cueðes gif hua uord min gehaldeð ne gebirgeð deað in ecnisse.
+\v 53 hueðer ðu mare arð feder usum Abrã seðe dead is ⁊ uitga [78] deade sint, ðone ðec seolfne wyrcas?
+\v 54 geondsuarede se Hæł gif ic uuldria mec seolfne gefea ɫ uuldor min noht is; is fader min seðe uuldriað mec ðone gie cuoeðas f-ðon God userne is.
+\v 55 ⁊ ne gie ongéto hine ic uũt conn ɫ uat ⁊ gif cuoeðo ꝥte ic nat [scio] hine ic beom gelic iu leas; ah ic uat hine ⁊ uord his ic halde.
+\v 56 Abrah- fæder. iuer gefeade ꝥte gesæge dæge min ⁊ gesæh ⁊ gegladade ɫ glæd uæs.
+\p
+\v 57 cuædon f-ðon Iũd to him fiftig uintra ne ðageane hæfis ⁊ Ab-hã gesæge ðu?
+\v 58 cuæð him se Hæł soðli- sodis ic cueðo iuh, ær ðon Abrã uere ic am ɫ uæs.
+\v 59 genomun f-ðon stanas ꝥte [79] anuorpon on hine se Hæł uũt ahydde hine ⁊ uteode of ðæm temple.
+\c 9
+\v 1 ⁊ ðona foerde ɫ miððy wærdle ðona gesæh monnu blindne frõ acennisse.
+\v 2 ⁊ gefrugnon hine ðegnas his, laruu, huælc syngade ðes ɫ aldro his ꝥte blind uere acenned?
+\v 3 geondũ se Hæł ⁊ ne ðes syngade ne aldro his ah ꝥte adeaued uere uoerc Godes i- ðæm.
+\v 4 me gedæfnað ꝥ ic geuyrco uoerca his seðe sende mec ða huile dæge is cymeð næht ðoñ nænigmonn mæge gewyrca.
+\v 5 ða huile on middãn ic am leht am ic middãn. [80]
+\v 6 ðas miððy gecuoeð aspeaft on eorðu ⁊ uorhte lám ɫ of ðæm spadle ⁊ ahof ꝥ lam of- ego his,
+\v 7 ⁊ cuæð hi- gaa aðuah in ðær uele [Siloæ] ꝥ is getractat asendet ɫ erendureca. eode f-ðon ⁊ aðuoh ⁊ cuom gesæh.
+\v 8 f-ðon neheburas ⁊ ðaðe gesegon hine ær f-ðon ðærfe ɫ næfge uæs ⁊ cuoedon ahne ðes is seðe gesæt ⁊ giornde ɫ?
+\v 9 oðro cuoedon ꝥte ðes is. oðro uũt nis æniht ɫ ullo modo ah gelic is his. he cueð ꝥte ic am.
+\v 10 cuoedon f-ðon hi- huu untynde ueron ego ðino?
+\v 11 geonduar- he [81] monn seðe is acueden Hæł lam worhte ⁊ smiride ego mino,
+\p ⁊ cueð me gaa to ðæm pole [Siloæ] ⁊ aðuah ⁊ ic eade ⁊ ic aðuog ⁊ ic gesæh.
+\v 12 \f + \fr 9.12 \ft BL f.232v\f*cuoedon him, huer is he? cuæð ic nat.
+\v 13 brohton hine to ðæm ælaruũ seðe blind uæs.
+\p
+\v 14 uæs uũt Iũd sunnadæg [ɫ] ða ꝥ lam [ɫ] dyde ɫ worhte se Hæł ⁊ untynde ego his.
+\v 15 eft-son f-ðon gefrugnon hin ða ælar-, huu gesege. he uũt cuoeð ðæm, ꝥ lam gesette me of- ða ego ⁊ ic aðuoh [aðuog] ⁊ ic gesæh.
+\v 16 cuoedon f-ðon frõ ælar̃ sum̃o, ne is ɫ nis ðes ɫ ðis monn frõ Gode, [82] f-ðon sunned- ne haldas. oðro cuoedon, huu mæge monn synfull ðas beceno gewyrca?
+\p ⁊ geflitt uæ ɫ todroefnise uæs him bituien ymb ꝥ.
+\v 17 cuoedon f-ðon ðæm blinde aft-sona ðu huæd cueðes of him ł ðæm seðe ontynde ego ðino. he uũt cuæð ꝥte uitga his ɫ uæs.
+\v 18 ne gelefdon f-ðon Iũd frõ him ꝥte blind uere ⁊ gesege, ða huile geceigdon aldro his seðe gesæh.
+\v 19 ⁊ frugnun hia ɫ ða cuoedon ðis is sunu iuer, ðone gie cuæðas ꝥte blind acenned uæs? huu ðoñ nú gesiið?
+\v 20 geonudueardon him aldro his, ⁊ cuoedon, we uuton ꝥte ðes is sunu usa, \f + \fr 9.20 \ft BL f.233r; W83\f*⁊ ꝥte blind acenned is.
+\v 21 huu ðoñ nu geseað ɫ gesið ne uutu ue ⁊ hua his untynde ego ue ne uutton. ðonilcæ ɫ hine gefraignað, ældo hæfeð he, frõ hĩ ɫ frõ ðæm gespræc.
+\v 22 ðas cuedon aldro his f-ðon ondreardon ða Iũd. fæstlice f-ðon getugon ɫ fliotton esnteam ða Iũd ꝥte gif hua hine ɫ ðone geondettæ Crist ɫ ðone cynig buta somnung ɫ uosa scealde buta uere.
+\v 23 fẽða aldro his cuodon f-ðon ældo ɫ uintra dæl hæfis, hine gefraignas.
+\p
+\v 24 ceigdon f-ðon æf-tsona ðone monno seðe uæs blind ⁊ cuoedon him, sel uuldor Gode. ue uutton ꝥte ðes monn synnfull is.
+\v 25 cuæð f-ðon he gif synnfull is ic nat. an ic uat ꝥte blind mðð ic uæss nú ic gesiũ [geseũ]
+\v 26 cuedon f-ðon him ɫ ðæm huæd dyde ðe? huu untynde ðe ego?
+\v 27 onduearde him i cuoeð iuh gee ɫ uũt eac gie geherdon.
+\p huæd ef-tsona uallað gie gehere? hæd æc gie uallað ðegnas his uosa?
+\v 28 owoerigdon ɫ miscuedon him ⁊ cuoedon ðu ðegn ðæs arð ue uũt Moises ðegnas ue sindon.
+\v 29 ue uotton ꝥte Moise sprecend uæs God. \f + \fr 9.29 \ft BL f.233v; W84\f*ðiosne uũt ue nuuton huona sie.
+\v 30 geonduearde ðe monn ⁊ cuæð him in ðis f-ðon to uundranne ɫ uundorlice is ꝥte gie nuutton huona sie ⁊ untynde min ego.
+\v 31 ue uutton uũt ꝥte ða synnfullo God ne geheres, ah gif huæ ɫ huelc Godes bydle ɫ uorðare is ꝥ is ðeðe God uorðias ⁊ uillo his wyrcað ðionne geherað.
+\p
+\v 32 of uorulde ne is gehered f-ðon ontynde ego hua ða blind borenes [ɫ].
+\v 33 buta uere ðes frõ Gode ne mæhte geuyrce æniht.
+\v 34 geoundeardon ⁊ cuoedon him in synnum acenned ðu warð all æc ðu læres usic? ⁊ f-driofon auurpon hine ut.
+\v 35 geherde se Hæł f-ðon auuropon hine ut ⁊ miððy gemoetton [gemoetten] hine cuoeð him to ðu gelefes on sunu Godes.
+\v 36 geonduearde he ⁊ cuæð huæd ɫ is driht- ꝥte gelæfo on him ɫ on ðæm?
+\p
+\v 37 ⁊ cuæð hĩ se Hæł ⁊ ðu gesege hine ⁊ seðe spreces ðec mið he is ɫ ðe is.
+\v 38 soð he cuæð ic gelefo driht- ⁊ feoll uorðade hine.
+\p
+\v 39 cuæð hĩ se Hæł on dom ic cuom in ðiosne middãn ðte ðaðe ne geseaðs hia geseæ ⁊ ðaðe geseað blindo biðon.
+\v 40 ⁊ geherdon frõ ælarũ ðaðe mið hine uoeron ⁊ cuoedon \f + \fr 9.40 \ft BL f.234r; W86\f*huoeðer æc ue blindo sindon?
+\p
+\v 41 cuæð hĩ se Hæł gif blindo aron næfdon gie synn nu f-ðon ɫ hueðre cuoeð f-ðon ɫ ꝥte ue gesego synn iuer wunað.
+\c 10
+\p
+\v 1 \f + \fr 10.1 \ft BL f.234r 19h (starts at 9 o'clock)\f*soðlice soðlice ic cuoeðo iuh seðe ne inngaas ðerh ða duru in scipa plett ɫ locc ah astiged of- on oðre halfe he ðeaf is ⁊ settere ɫ aceacere.
+\v 2 seðe uũt ingæð ðerh ða duru hiorde is scipa.
+\v 3 ðissum ðe duruard ontyneð ⁊ ða scípo stefn his geheras ⁊ ða ágno scíp ceigeð syndrigum nomũ ɫ nomina singulas ⁊ gebrengeð ɫ lædað hia.
+\p
+\v 4 ⁊ miððy ða syndrigu ɫ ágnũ scip sendeð ɫ f-letes bef- hia gæð ⁊ ða scip hine soecas ɫ hĩ fylgað f-ðon uuton stefn his.
+\v 5 uta cund ɫ fremðe uũt ne fylgeð ah hia fleas frõ hĩ ɫ ðæm.
+\p f-ðon ne cuðon stefn ðara uta cundra ɫ ðara frem̃.
+\v 6 ðios soðcuido ɫ gẽdd cuæð ðæm se Hæł ðailco uũt ɫ huoeðre ne ongetton huæt gespræce ɫ gespræcend uæs him.
+\v 7 cuæð f-ðon him eft̃sona se Hæł soð is soð is ꝥ ic cuoeðo iuh ꝥte ic am duru ðara scipa.
+\v 8 alle se oft cymes ɫ cuomon ðeafas sint ⁊ setteras ah ne geherdon ðaileo ɫ ða scip.
+\v 9 ic am duru. \f + \fr 10.9 \ft BL f.234v; W88\f*ðerh mec gif huælc ingæð bið gehæled ⁊ infæreð ⁊ utfæreð ⁊ lesua gemoetað.
+\v 10 ðeaf ne cymes buta ꝥte gestele ⁊ eteð ⁊ losað ɫ spilleð. ic cuom ðte lif hia hæbbe ⁊ monigfallicẽ habbas.
+\p
+\v 11 ic am hiorda god, god hiorde sauel his seleð fẽ ðæ̃ scipum.
+\v 12 ðe celmertmonn ⁊ seðe ne is hiorde ðæs ɫ his ne sint ða scip agno ɫ syndrigo gesiið ðone uulf cymmende ⁊ f-lettas ða scipo ⁊ fliið ⁊ ðe ulf nimeð ⁊ tostraigdes ɫ todrfeð ða scip.
+\v 13 ðe æsnemonn ɫ celm̃ uũt fliið f-ðon celmertm̃ is ⁊ ne byreð to him frõ scipũ.
+\v 14 ic am hiorde god ⁊ ic ongetto mino ⁊ ongeatas mec mino.
+\p
+\v 15 suæ uat mec ðe fæder ⁊ ic ongetto ðone fæder
+\p ⁊ sauel min setto fẽ scipum.
+\p
+\v 16 ⁊ oðro scíp ic hafo ða ne sint frõ ðissũ plette ⁊ ða gedæfnað me togebrenga ⁊ stefn min gehereð ⁊ bið ɫ geuordðes an plette ɫ scipeloc an hiorde.
+\v 17 fe-ða mec se fæder lufað fẽðon ic setto sauel min ⁊ eft̃sona ic onfoe hia ɫ ðaiłca.
+\v 18 neænig ·/· nimeð hia frõ me \f + \fr 10.18 \ft BL f.235r; W89\f*ah ic sétto hia frõ me seolfũ mæht ic hafo to settanne hia ɫ ðailca ⁊ mæht ic hafo eft̃sona to onfanne hia. ðis bebod ic onfeng frõ feder minũ.
+\pb
+\v 19 geflitt eft̃sona auorden uæs bituih Iũd fẽ uordum ðissum ɫ uord ðas.
+\v 20 cuoedon uũt menigo from ðæm diuł hæfes ⁊ auoedeð huæd hine gie geherdon?
+\v 21 oðro cuoden [cuodon] ðas uórd ne sint diuł hæbbendes. huoeder ðe diuł hæbbend mæge blinda ego untyne?
+\v 22 auorden sint uũt niuæs huses halgung ɫ cirica halgung i- ðær byr̃, ⁊ uinter uæs.
+\p
+\v 23 ⁊ geeade se Hæł in temp̃ in portic Salam̃on.
+\v 24 \f + \fr 10.24 \ft S101\f*ymbsaldon f-ðon hine Iũd ⁊ cuoedon him huu long ɫ gehuelc sæuel usra nimes ðu? gif ðu arð Crist cuæð ús eaunge.
+\v 25 geonduarde him se Hæł ic spreco iuh ⁊ ne gelefes gie. ða uoerco ða ic uyrce on noma fadores mines ðas cyðnisse ðertrymmeð of mec.
+\v 26 ah gie ne gelefon ɫ gie ne gelefeð f-ðon naro gie of scipum minũ.
+\v 27 scipo mino stefn min geherað ⁊ ic ongetto hia ɫ ðailca ⁊ fylgeð ɫ soecað mec.
+\p
+\v 28 \f + \fr 10.28 \ft BL f.235v; W91\f*⁊ ic lif éce silo him ⁊ ne losað in ecnise ⁊ ne nimeð hia ænig ·/· of minũ hondum ɫ of hond min.
+\v 29 fæder min ꝥte salde me mara frõ allum is, ⁊ nænig ·/· mæge genioma of hond faderes mines.
+\p
+\v 30 ic ⁊ fæder an ue sindon.
+\v 31 ahofon ɫ genomon stanas Iũd ðte hia gestændon hine.
+\v 32 geonduard him se Hæł menigo uoerco godo ic ædeaude iuh frõ feder minũ. fore ꝥ ɫ hiora uoerc stanas gie mec?
+\v 33 geonduardon him Iũd of godũ uoerc ne stanas ue ðec ah from ðæm ebolsong ⁊ f-ðon ðu monn miððy arð wyrces ðec seolfne God.
+\v 34 geonduarde him se Hæł ahne auritten is on æ iuer,
+\p f-ðon ic cuoeð goddo gie aron?
+\v 35 gif ðailco cuoeð godas to huelcũ ɫ to uord Godes auorden uæs ⁊ ne mæge undæ ðiu uritt,
+\v 36 ðone se fader gehalgade ⁊ sende in middãng,
+\p gie cuoeðas ꝥte sie ebolsongas f-ðon ic cuoeð sunu Godes ic am?
+\v 37 gif ic ne wyrco uoerca faderes mines nalle [nallas] gie gelefa me.
+\v 38 gif uũt ic uyrco ⁊ gif ɫ ðæh ge nælle me gelefa \f + \fr 10.38 \ft BL f.236r; W93\f*ðæm uoercum gelefas ꝥte gie ongette ⁊ gie gelefa f-ðon in mec is se fæder ⁊ ic in ðæm fæder.
+\p
+\v 39 sohton f-ðon hine gelosage ɫ to spillanne ɫ to foanne ⁊ foerde of hondu hiora.
+\v 40 ⁊ eade ɫ foerde eft̃sona of- Iordañ ðone stream on ꝥ ł ðær stoue ɫ styd ðær uæs Iohañ fulguande ɫ clænsande ærist ⁊ uunade ðær.
+\p
+\v 41 ⁊ menigo cuomon to him ⁊ cuoedon ꝥte Iohañ uũt becon worhte nan. alle uũt suæ huæd cueð Ioh- of ðis soða uoeron.
+\v 42 ⁊ menigo gelefdon on hine.
+\c 11
+\p
+\v 1 \f + \fr 11.1 \ft BL f.236r; S103; W94\f*uæs uũt sum adligne Lazar̃ of Beðania ðær byrig of ceastra Maries ⁊ Martha suoester ðæs.
+\v 2 Maria uũt uæs ðio geðuog ɫ smiride ɫ leðrede ðone driht- mið smirinise.
+\p ⁊ gedrygde his foét mið hérum hire ɫ fæx, ðæs broðer Lazar̃\f + \fr 11.2 \ft ðæs latzar micel gebecnas ĩ deiglo gehryno.\f* untrymade ɫ uæs untrymig.
+\v 3 sendon f-ðon ða suoestro to him cuoeðendo driht- heono ðone ðu ġėlefas untrymig is ɫ.
+\p
+\v 4 miððy uũt se Hæł cuoeð to hĩ ɫ ðæm untrymnise ðios nis to deaðe ah fẽ uldre Godes, ꝥte sie geuuldred sunu Godes ðerh hine.
+\v 5 lufade soðlice se Hæł \f + \fr 11.5 \ft BL f.236v; W94\f*Marth- ⁊ suoest- hire Marĩ ⁊ Lazar̃.
+\v 6 ꝥte uũt geherde ꝥte untrymig uæs,
+\p ða ɫ ðonne fæstlice geunade twæm dagum in ðæt ilca stoue ɫ styde.
+\v 7 soðða ɫ ðona æft̃ ðas cuoeð to his ðegnũ fære ue in Iũd eft̃sona.
+\v 8 cuoedon him ða ðegnas ðu larua nú hia gesohton ɫ soecað ðec Iũd to gestænane.
+\p ⁊ eft̃sona ðu færis hidder?
+\v 9 geonduarde se Hæł ahne tuoelfo tid sint dæges? gif huelc gegaas on dæg ne ondspyrneð f-ðon leht ðisses middãn gesiið.
+\v 10 gif uũt gegeongað on næht ondspyrnað f-ðon left nis in him.
+\v 11 ðas cuoeð
+\p ⁊ æft̃ ðis cuoæð him Lazar̃ még ɫ freond userne ɫ usa slepeð, ah ic geonga ꝥte of sleppe ic auoecco hine.
+\v 12 cuoedon f-ðon his ðegnas drift̃ gif he slepað hal bið.
+\v 13 gecuæð uũt se Hæł frõ his deaðe hia uũt uoendon ꝥte from slepe ðæs sueafenes gecuoeð.
+\v 14 ða ɫ ðoñ f-ðon cuoeð him se Hæł eaunge ɫ gesene Lazar̃ ꝥte dead is.
+\p
+\v 15 \f + \fr 11.15 \ft S107\f*⁊ ic gefeo fẽ iuih ꝥte gie gelefa ꝥte næssic ðer, ah geonga ue to him.
+\v 16 cuoeð f-ðon Thom̃ \f + \fr 11.16 \ft BL f.237r; W96\f*seðe acuoeden Didim̃ to his gefoerum, uũt geonga eac ue ꝥte uoe deadage mið him.
+\p
+\v 17 cuom f-ðon se Hæł ⁊ gemoette hine feuor dagas [iam] in byrgenne hæbbende ɫ.
+\v 18 uæs uũt ðiu burg neh Hierũ, suælce spyrdum fiftenum.
+\v 19 monigo uũt ɫ frõ Iũd cuomon to Marthã ⁊ Mãr, ꝥte hia uoeron gefroefrende ða ilca uif of hiora broeðer ɫ ymb hiora broðer.
+\v 20 Marða f-ðon ꝥte geherde ꝥte ɫ f-ðon se hæł cuom gearn hĩ togægnas; [Maria] uũt huse ɫ æt háme gesætt.
+\p
+\v 21 cuoeð f̃ðon Mãr to ðæm hæł, driht-, gif ðu uere her, broðer mín ne uere dead.
+\v 22 \f + \fr 11.22 \ft Started following Skeat (6 February 2020), checking against Cotton MS Nero D IV.\f*ah æc nú ic uat f̃ðon sua huæd ðu gegiuað ɫ frõ gode gesilið ðe.
+\v 23 cuoeð hir to se hæł eft ariseð broðer ðin.
+\v 24 cuoeð him mãr ic uat ꝥte eft ariseð in erist on ðæm hlættmeata dæge.
+\v 25 cuoeð hir to se hæł ic am erest ⁊ lif seðe gelefeð on mec uut ɫ gee ɫ ðæh dead aie liofæð.
+\v 26 ⁊ eghuoelc seðe liofað ⁊ gelefeð on mec ne bið dead in ecnise gelefes ðu ðis.
+\v 27 cuoeð him to uut la drih ic gelefde ꝥte ðu arð cris sunu godes so ɫ ðu ðe on middangeard gecuome.
+\p
+\v 28 \f + \fr 11.28 \ft S109\f*⁊ middy ðas cuoeð lo cuoedon hæfde foerde ɫ ⁊ ceigde mari soucater hire sui ɫ cuoeð se laruu cuom ceges ðoc.
+\v 29 ðio ɫ ꝥte gehorde arás hræðe ⁊ cuom to him.
+\v 30 ne ða get f-ðon ɫ cuome ɫ se hæł in ꝥceastra ah uæs ða geono in ðær ɫ stoue ðer gearn ɫ him martha.
+\v 31 iud f-ðon ðaðe uoeron mið hia in hus ⁊ froefredon ɫ ðailca ɫ mið ðy gesegon mari ꝥte recone arás ⁊ cade ɫ foerdo fuilgendo uocron hir ɫ cuoedon ɫ cuocðondo f-ðon gaas to ðæm byrgenne ꝥte hreme ɫ ðer.
+\v 32 mar f-ðon miððy cuome ðer ɫ huoer uæs se hæł gesæh hine feall to his fotum ⁊ cuoeth him tó driht gif ðu uoere hér nǽre ɫ dead broðer min.
+\v 33 se hæɫ uut ꝥte sæh hia ɫ hremende ɫ uoepende ⁊ ða iud ðaðe cuomon mið hir ɫ hremdon ɫ bremmde ɫ of gaste ⁊ gedroefde ɫ hine seolfa.
+\v 34 ⁊ cuoeð huer gie setton hine cuoedon him driht cym ⁊ geseh.
+\v 35 ⁊ tæherende uæs se hæł.
+\v 36 cuoedon f-ðon iud hcono huu suiðe lufade hine.
+\v 37 summo uut cuoedon of ðæm ahne mæhte ðes seðe untynde ego ðæs blindes wyrca ꝥte eæc ðes ne suoelte.
+\v 38 se hæł f-ðon eft bremmde ɫ on hine seolfe cuom to ðæm byrgenne uæs uut cofa ɫ ⁊ stan ofer-gesetteð uæs him ɫ.
+\p
+\v 39 \f + \fr 11.39 \ft S111\f*cuoeð se hæł [PDF 270]
+\v 40
+\v 41
+\v 42
+\v 43
+\v 44
+\v 45
+\v 46
+\v 47
+\v 48
+\v 49
+\v 50
+\v 51
+\v 52
+\v 53
+\v 54
+\v 55
+\v 56
+\v 57
+\c 12
+ \v 1
+
+ \v 2
+
+ \v 3
+
+
+
+ \v 4
+
+ \v 5
+
+ \v 6
+
+ \v 7
+
+
+ \v 8
+
+ \v 9
+
+
+ \v 10
+
+ \v 11
+ \v 12
+
+ \v 13
+
+
+ \v 14
+ \v 15
+
+ \v 16
+
+
+
+ \v 17
+
+
+ \v 18
+
+ \v 19
+
+
+ \v 20
+
+ \v 21
+
+ \v 22
+
+ \v 23
+
+ \v 24
+
+ \v 25
+
+
+
+
+ \v 26
+
+
+
+ \v 27
+
+
+ \v 28
+
+ \v 29
+
+
+ \v 30
+
+ \v 31
+
+ \v 32
+ \v 33
+ \v 34
+
+
+
+ \v 35
+
+
+
+
+ \v 36
+
+ \v 37
+ \v 38
+
+
+ \v 39
+ \v 40
+
+
+ \v 41
+ \v 42
+
+
+ \v 43
+ \v 44
+
+ \v 45
+ \v 46
+
+ \v 47
+
+
+
+ \v 48
+
+
+ \v 49
+
+
+ \v 50
+
+\c 13
+ \v 1
+
+
+
+ \v 2
+
+
+ \v 3
+
+ \v 4
+
+ \v 5
+
+
+ \v 6
+
+ \v 7
+
+ \v 8
+
+
+ \v 9
+
+ \v 10
+
+
+
+ \v 11
+
+ \v 12
+
+ \v 13
+
+ \v 14
+
+ \v 15
+
+ \v 16
+
+
+ \v 17
+ \v 18
+
+
+
+ \v 19
+
+ \v 20
+
+ \v 21
+
+
+ \v 22
+
+ \v 23
+
+ \v 24
+
+ \v 25
+
+ \v 26
+
+
+
+ \v 27
+
+ \v 28
+ \v 29
+
+
+
+ \v 30
+
+ \v 31
+
+ \v 32
+
+
+ \v 33
+
+
+
+ \v 34
+
+ \v 35
+
+ \v 36
+
+
+ \v 37
+
+ \v 38
+
+
+\c 14
+ \v 1
+ \v 2
+
+
+ \v 3
+
+
+ \v 4
+ \v 5
+
+ \v 6
+
+ \v 7
+
+ \v 8
+ \v 9
+
+
+
+ \v 10
+
+
+ \v 11
+ \v 12
+
+
+
+ \v 13
+
+ \v 14
+ \v 15
+ \v 16
+
+ \v 17
+
+
+
+ \v 18
+ \v 19
+
+ \v 20
+
+ \v 21
+
+
+ \v 22
+
+
+ \v 23
+
+
+
+ \v 24
+
+
+ \v 25
+ \v 26
+
+
+
+ \v 27
+
+
+ \v 28
+
+
+ \v 29
+ \v 30
+
+
+ \v 31
+
+
+\c 15
+ \v 1
+ \v 2
+
+ \v 3
+ \v 4
+
+
+
+ \v 5
+
+
+
+ \v 6
+
+
+
+ \v 7
+
+ \v 8
+
+
+ \v 9
+
+ \v 10
+
+
+ \v 11
+
+ \v 12
+ \v 13
+
+ \v 14
+ \v 15
+
+
+
+ \v 16
+
+
+
+ \v 17
+ \v 18
+ \v 19
+
+
+ \v 20
+
+
+
+ \v 21
+
+ \v 22
+
+ \v 23
+ \v 24
+
+
+ \v 25
+
+
+ \v 26
+
+
+ \v 27
+
+\c 16
+ \v 1
+ \v 2
+
+
+ \v 3
+ \v 4
+
+ \v 5
+
+
+ \v 6
+ \v 7
+
+
+ \v 8
+
+ \v 9
+ \v 10
+
+ \v 11
+
+ \v 12
+ \v 13
+
+
+
+
+ \v 14
+
+ \v 15
+
+
+ \v 16
+
+ \v 17
+
+
+
+ \v 18
+
+ \v 19
+
+
+
+ \v 20
+
+
+ \v 21
+
+
+
+ \v 22
+
+
+ \v 23
+
+
+ \v 24
+
+ \v 25
+
+
+ \v 26
+
+ \v 27
+
+ \v 28
+
+ \v 29
+
+ \v 30
+
+
+ \v 31
+ \v 32
+
+
+ \v 33
+
+
+\c 17
+ \v 1
+
+
+ \v 2
+
+ \v 3
+
+
+ \v 4
+
+ \v 5
+
+ \v 6
+
+
+ \v 7
+ \v 8
+
+
+ \v 9
+
+ \v 10
+ \v 11
+
+
+ \v 12
+
+
+
+
+ \v 13
+
+
+ \v 14
+
+ \v 15
+ \v 16
+ \v 17
+ \v 18
+ \v 19
+
+ \v 20
+
+ \v 21
+
+
+ \v 22
+
+ \v 23
+
+
+ \v 24
+
+
+
+ \v 25
+
+
+ \v 26
+
+\c 18
+ \v 1
+
+
+ \v 2
+
+ \v 3
+
+
+ \v 4
+
+ \v 5
+
+
+ \v 6
+
+ \v 7
+
+ \v 8
+
+ \v 9
+
+ \v 10
+
+
+
+ \v 11
+
+ \v 12
+
+ \v 13
+
+ \v 14
+
+ \v 15
+
+
+ \v 16
+
+
+
+ \v 17
+
+
+ \v 18
+
+
+ \v 19
+
+ \v 20
+
+
+
+ \v 21
+
+
+ \v 22
+
+
+ \v 23
+
+
+ \v 24
+ \v 25
+
+
+ \v 26
+
+
+ \v 27
+ \v 28
+
+
+
+ \v 29
+
+ \v 30
+
+ \v 31
+
+
+
+ \v 32
+
+ \v 33
+
+ \v 34
+
+ \v 35
+
+ \v 36
+
+
+
+ \v 37
+
+
+
+
+ \v 38
+
+
+ \v 39
+
+ \v 40
+
+
+\c 19
+ \v 1
+ \v 2
+
+ \v 3
+
+ \v 4
+
+
+ \v 5
+
+
+ \v 6
+
+
+
+ \v 7
+
+
+ \v 8
+ \v 9
+
+
+ \v 10
+
+
+ \v 11
+
+
+ \v 12
+
+
+
+ \v 13
+
+
+ \v 14
+
+ \v 15
+
+
+ \v 16
+
+ \v 17
+
+ \v 18
+
+ \v 19
+
+ \v 20
+
+
+ \v 21
+
+
+ \v 22
+ \v 23
+
+
+
+
+ \v 24
+
+
+
+
+ \v 25
+
+ \v 26
+
+ \v 27
+
+ \v 28
+
+ \v 29
+
+
+ \v 30
+
+ \v 31
+
+
+
+ \v 32
+
+ \v 33
+
+ \v 34
+
+ \v 35
+
+
+ \v 36
+
+ \v 37
+
+ \v 38
+
+
+
+
+
+ \v 39
+
+ \v 40
+
+
+ \v 41
+
+
+ \v 42
+
+\c 20
+ \v 1
+
+
+ \v 2
+
+
+
+ \v 3
+ \v 4
+
+
+ \v 5
+
+ \v 6
+
+
+ \v 7
+
+
+ \v 8
+
+
+ \v 9
+
+ \v 10
+ \v 11
+
+ \v 12
+
+ \v 13
+
+
+ \v 14
+
+
+ \v 15
+
+
+
+ \v 16
+
+ \v 17
+
+
+
+
+ \v 18
+
+ \v 19
+
+
+
+ \v 20
+
+ \v 21
+
+ \v 22
+
+ \v 23
+
+ \v 24
+
+ \v 25
+
+
+
+
+ \v 26
+
+
+ \v 27
+
+
+ \v 28
+ \v 29
+
+
+ \v 30
+
+ \v 31
+
+\c 21
+ \v 1
+
+ \v 2
+
+
+ \v 3
+
+
+
+ \v 4
+
+ \v 5
+
+ \v 6
+
+
+
+ \v 7
+
+
+
+
+ \v 8
+
+
+ \v 9
+
+ \v 10
+
+ \v 11
+
+
+ \v 12
+
+
+
+
+ \v 13
+
+ \v 14
+
+ \v 15
+
+
+
+ \v 16
+
+
+ \v 17
+
+
+
+
+ \v 18
+
+
+
+ \v 19
+
+ \v 20
+
+
+
+ \v 21
+
+ \v 22
+
+
+ \v 23
+
+
+
+
+ \v 24
+
+ \v 25
+
+
+
+\mte1
