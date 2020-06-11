@@ -1,6 +1,8 @@
 Top 50 most cross-referenced chapters of the Bible across major versions
 based on the ratio of references to verses in the chapter. 
 
+Book.Chapter - Ratio (ISA = Isaiah, not 1 Samuel [1SA])
+
 1. PSA.1 - 13.50
 2. REV.1 - 11.10
 3. EXO.3 - 10.59
