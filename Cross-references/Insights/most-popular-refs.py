@@ -4,10 +4,10 @@ import re
 path = input("Path to XRF file (add trailing slash): ")
 top_num = int(input("Top how many? "))
 xref_db_list = [ # List of tuples
-    # ("The_Works_nt_ot.xrf","chapter and verses", "all"), # Full chapter and verse ref
+    ("The_Works_nt_ot.xrf","chapter and verses", "all"), # Full chapter and verse ref
     # ("The_Works_nt_ot.xrf","chapters", "all"), # Chapter only, not specific verses
     # ("The_Works_nt.xrf","chapter and verses", "all"),
-    ("The_Works_nt_ot.xrf","chapter and verses", "EZR"), # Book only scope
+    # ("The_Works_nt_ot.xrf","chapter and verses", "EZR"), # Book only scope
     # ("The_Works_nt_ot.xrf","book", "all"), # Book only scope
     # ("The_Works_nt_ot.xrf","chapters", "PSA"), # Book only scope
 ]
