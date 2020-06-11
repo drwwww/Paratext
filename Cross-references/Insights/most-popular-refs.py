@@ -1,10 +1,10 @@
-import re
+import re, json
 
 # The XRF files and preferred output
 path = input("Path to XRF file (add trailing slash): ")
 top_num = int(input("Top how many? "))
 xref_db_list = [ # List of tuples
-    ("The_Works_nt_ot.xrf","chapter and verses", "all"), # Full chapter and verse ref
+    ("The_Works_nt_ot.xrf","chapters", "all"), # Full chapter and verse ref
     # ("The_Works_nt_ot.xrf","chapters", "all"), # Chapter only, not specific verses
     # ("The_Works_nt.xrf","chapter and verses", "all"),
     # ("The_Works_nt_ot.xrf","chapter and verses", "EZR"), # Book only scope
@@ -45,7 +45,16 @@ for xref_db, output, scope in xref_db_list: # Directly access tuples in list
 
     # Results
     for count, (ref, occs) in enumerate(sorted_refs_dict.items()):
-        print("{}. {} - {}x".format(count+1,ref,occs))
+        # print("{}. {} - {}x".format(count+1,ref,occs))
         # print("{}".format(ref))
         if count >= top_num-1: # Because dicts don't have indexes?
             break
+    
+    save_or_not = input("Do you want to save to file (json)? y or n ")
+    if save_or_not == "y":
+        #filename = input("Filename? ")
+        # Write to a file
+        json = json.dumps(refs_dict)
+        f = open("most-popular-refs-chaps.json","w")
+        f.write(json)
+        f.close()
