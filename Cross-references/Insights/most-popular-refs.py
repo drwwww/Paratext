@@ -4,10 +4,10 @@ import re
 path = input("Path to XRF file (add trailing slash): ")
 top_num = int(input("Top how many? "))
 xref_db_list = [ # List of tuples
-    ("The_Works_nt_ot.xrf","chapter and verses", "all"), # Full chapter and verse ref
+    # ("The_Works_nt_ot.xrf","chapter and verses", "all"), # Full chapter and verse ref
     # ("The_Works_nt_ot.xrf","chapters", "all"), # Chapter only, not specific verses
     # ("The_Works_nt.xrf","chapter and verses", "all"),
-    # ("The_Works_nt_ot.xrf","chapter and verses", "EZR"), # Book only scope
+    ("The_Works_nt_ot.xrf","chapter and verses", "EZR"), # Book only scope
     # ("The_Works_nt_ot.xrf","book", "all"), # Book only scope
     # ("The_Works_nt_ot.xrf","chapters", "PSA"), # Book only scope
 ]
@@ -28,9 +28,9 @@ for xref_db, output, scope in xref_db_list: # Directly access tuples in list
             for ref in list_of_refs: # Loop through list of matches
                 if "all" not in scope:
                     if scope in ref:
-                        pass
+                        pass # Pass on to the next statement in the loop
                     else:
-                        continue
+                        continue # Continue with next iteration, skip remainder of loop
                 if ref not in refs_dict: # If ref not already in dict...
                     refs_dict[ref] = 1 # Add that ref with 1 occurrence
                 else: # Otherwise...that ref is already in dict, so...
