@@ -1,0 +1,2 @@
+﻿# Latin Hebrew Bible book names in BHS order
+Genesis,Exodus,Leviticus,Numeri,Deuteronomium,Josua,Judices,Samuel I,Samuel II,Reges I,Reges II,Jesaia,Jeremia,Ezechiel,Hosea,Joel,Amos,Obadia,Jona,Micha,Nahum,Habakuk,Zephania,Haggai,Sacharia,Maleachi,Psalmi,Iob,Proverbia,Ruth,Canticum,Ecclesiastes,Threni,Esther,Daniel,Esra,Nehemia,Chronica I,Chronica II
