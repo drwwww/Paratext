@@ -2,7 +2,7 @@ import os, re, json
 
 # Find number of verses in each chapter of the Bible
 verses_by_chapter_dict = {}
-path = "C:\\My Paratext 8 Projects\\MP1\\"
+path = "C:\\My Paratext 8 Projects\\MP2\\"
 for file in os.listdir(path):
     if file.endswith(".SFM"):
         full_path = path + file
@@ -25,6 +25,6 @@ for file in os.listdir(path):
 
 # Write to a file
 json = json.dumps(verses_by_chapter_dict)
-f = open("verses_by_chapter.json","w")
+f = open("verses_by_chapter-mp2.json","w")
 f.write(json)
 f.close()
